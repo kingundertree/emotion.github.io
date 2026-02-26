@@ -33,6 +33,7 @@ function renderContent() {
 
     emotionData.forEach((cat, cIndex) => {
         let itemsHtml = cat.items.map((item, iIndex) => {
+            // 1. 生成名著情节标签 (保持不变)
             let bookExamples = '';
             books.forEach(book => {
                 if(item[book.id]) {
@@ -45,20 +46,34 @@ function renderContent() {
                 }
             });
 
+            // 【核心修复】生成精准的 ID 直链
+            // 网易云音乐 ID 直链格式：https://music.163.com/#/song?id=ID
+            // 这种链接通常无需登录即可播放或查看详情
+            const musicUrl = item.musicId 
+                ? `https://music.163.com/#/song?id=${item.musicId}` 
+                : `https://music.163.com/#/search/m?s=${encodeURIComponent(item.musicTitle || item.name)}`;
+             
+            // 影视：使用 B 站搜索链接
+            // 格式：https://search.bilibili.com/all?keyword=关键词
+            const videoSearchUrl = `https://search.bilibili.com/all?keyword=${encodeURIComponent(item.video)}`;
+
             return `
                 <div id="${cat.id}-${iIndex}" style="margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px dashed #eee;">
                     <h3>${item.name} <small style="font-weight:normal; color:#666; font-size:0.85rem">| ${item.en}</small></h3>
                     <p><strong>定义：</strong>${item.desc}</p>
                     <p><strong>典故：</strong>${item.source}</p>
                     ${bookExamples ? `<div style="margin-top:10px;"><strong>名著情节：</strong>${bookExamples}</div>` : ''}
+                    
                     <div class="resource-grid">
                         <div class="resource-card">
-                            <h4>🎵 音乐</h4>
-                            <a href="https://music.163.com/" target="_blank" class="btn-link">试听</a>
+                            <h4>🎵 ${item.musicTitle}</h4>
+                            <p style="font-size:0.75rem; color:#999; margin-bottom:5px;">点击直达网易云音乐 (免登录)</p>
+                            <a href="${musicUrl}" target="_blank" class="btn-link">立即试听</a>
                         </div>
                         <div class="resource-card">
-                            <h4>🎬 影视</h4>
-                            <a href="https://search.bilibili.com/all?keyword=${encodeURIComponent(item.name + ' 四大名著')}" target="_blank" class="btn-link">搜索</a>
+                            <h4>🎬 ${item.video}</h4>
+                            <p style="font-size:0.75rem; color:#999; margin-bottom:5px;">点击跳转 B 站搜索结果</p>
+                            <a href="${videoSearchUrl}" target="_blank" class="btn-link">观看片段</a>
                         </div>
                     </div>
                 </div>
@@ -68,16 +83,23 @@ function renderContent() {
         contentHtml += `<section id="${cat.id}"><h1>${cat.title}</h1><h2>${cat.en}</h2>${itemsHtml}</section>`;
     });
 
+    // 渲染名著专题部分 (简略版，如需升级同理)
     books.forEach(book => {
         let casesHtml = '';
         emotionData.forEach(cat => {
             cat.items.forEach(item => {
                 if(item[book.id]) {
+                    // 这里也可以加上具体的 link，逻辑同上
+                    const videoLink = `https://search.bilibili.com/all?keyword=${encodeURIComponent(item.videoKeyword || (item.name + ' ' + book.name))}`;
+                    
                     casesHtml += `
                         <div class="resource-card" style="border-left: 4px solid ${book.color}; margin-bottom:15px;">
                             <h4>${item.name} <span style="font-weight:normal; font-size:0.75rem">(${item.en})</span></h4>
                             <p style="font-size:0.85rem; margin: 5px 0; color:#333;">${item[book.id]}</p>
-                            <a href="#${cat.id}-${cat.items.indexOf(item)}" onclick="closeMobileSidebar()" class="btn-link" style="background:transparent; color:${book.color}; border:1px solid ${book.color}; padding:2px 6px; font-size:0.75rem;">查看详解</a>
+                            <div style="margin-top:8px;">
+                                <a href="${videoLink}" target="_blank" class="btn-link" style="background:transparent; color:${book.color}; border:1px solid ${book.color}; padding:2px 6px; font-size:0.75rem;">🎬 观看片段</a>
+                                <a href="#${cat.id}-${cat.items.indexOf(item)}" onclick="closeMobileSidebar()" class="btn-link" style="background:transparent; color:#666; border:1px solid #ccc; padding:2px 6px; font-size:0.75rem; margin-left:5px;">📖 查看详解</a>
+                            </div>
                         </div>
                     `;
                 }
