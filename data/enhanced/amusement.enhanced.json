@@ -1,0 +1,467 @@
+{
+  "id": "amusement",
+  "title": "【乐】趣味与安逸",
+  "en": "Amusement & Serenity",
+  "items": [
+    {
+      "name": "愉悦",
+      "en": "Pleasure",
+      "desc": "感官或精神的舒适",
+      "source": "《兰亭集序》",
+      "classics": {
+        "honglou": "芦雪庵联诗",
+        "xiyou": "蟠桃会",
+        "shuihu": "梁山泊大碗喝酒",
+        "sanguo": "铜雀台比武"
+      },
+      "media": {
+        "music": {
+          "id": 139879,
+          "title": "春江花月夜",
+          "url": "https://music.163.com/#/song?id=139879"
+        },
+        "video": {
+          "keyword": "赤壁 群英会宴饮",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B5%A4%E5%A3%81%20%E7%BE%A4%E8%8B%B1%E4%BC%9A%E5%AE%B4%E9%A5%AE"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "诙谐",
+      "en": "Amusement",
+      "desc": "被逗乐，觉得有趣",
+      "source": "《滑稽列传》",
+      "classics": {
+        "honglou": "刘姥姥逗笑",
+        "xiyou": "八戒逗悟空",
+        "shuihu": "王定六说笑",
+        "sanguo": "蒋干盗书"
+      },
+      "media": {
+        "music": {
+          "id": 139881,
+          "title": "武林外传 (序曲)",
+          "url": "https://music.163.com/#/song?id=139881"
+        },
+        "video": {
+          "keyword": "唐伯虎点秋香 对对联",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E5%94%90%E4%BC%AF%E8%99%8E%E7%82%B9%E7%A7%8B%E9%A6%99%20%E5%AF%B9%E5%AF%B9%E8%81%94"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "惬意",
+      "en": "Coziness",
+      "desc": "悠闲自在的满足",
+      "source": "苏轼《记承天寺》",
+      "classics": {
+        "honglou": "宝玉酣睡",
+        "xiyou": "悟空花果山称王",
+        "shuihu": "阮小七捕鱼",
+        "sanguo": "卧龙冈午睡"
+      },
+      "media": {
+        "music": {
+          "id": 139883,
+          "title": "闲情寄趣",
+          "url": "https://music.163.com/#/song?id=139883"
+        },
+        "video": {
+          "keyword": "知否 盛家日常喝茶",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%9F%A5%E5%90%A6%20%E7%9B%9B%E5%AE%B6%E6%97%A5%E5%B8%B8%E5%96%9D%E8%8C%B6"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "调侃",
+      "en": "Playfulness",
+      "desc": "轻松戏谑的心态",
+      "source": "刘邦戏弄群臣",
+      "classics": {
+        "honglou": "黛玉调侃宝钗",
+        "xiyou": "悟空调侃八戒",
+        "shuihu": "燕青调侃李师师",
+        "sanguo": "孔明调侃鲁肃"
+      },
+      "media": {
+        "music": {
+          "id": 139885,
+          "title": "铁齿铜牙纪晓岚",
+          "url": "https://music.163.com/#/song?id=139885"
+        },
+        "video": {
+          "keyword": "纪晓岚 和珅 斗嘴",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%BA%AA%E6%99%93%E5%B2%9A%20%E5%92%8C%E7%8F%85%20%E6%96%97%E5%98%B4"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "逍遥",
+      "en": "Carefree",
+      "desc": "无拘无束的自由之乐",
+      "source": "庄子《逍遥游》",
+      "classics": {
+        "honglou": "柳湘莲",
+        "xiyou": "云游四海",
+        "shuihu": "公孙胜",
+        "sanguo": "左慈戏曹操"
+      },
+      "media": {
+        "music": {
+          "id": 139887,
+          "title": "沧海一声笑 (许冠杰)",
+          "url": "https://music.163.com/#/song?id=139887"
+        },
+        "video": {
+          "keyword": "笑傲江湖 令狐冲喝酒",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96%20%E4%BB%A4%E7%8B%90%E5%86%B2%E5%96%9D%E9%85%92"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "窃喜",
+      "en": "Smugness",
+      "desc": "暗自高兴，略带狡黠",
+      "source": "草船借箭",
+      "classics": {
+        "honglou": "小红攀高枝",
+        "xiyou": "悟空偷丹",
+        "shuihu": "时迁偷鸡",
+        "sanguo": "庞统献连环计"
+      },
+      "media": {
+        "music": {
+          "id": 139889,
+          "title": "神探狄仁杰 (序曲)",
+          "url": "https://music.163.com/#/song?id=139889"
+        },
+        "video": {
+          "keyword": "鹿鼎记 韦小宝偷笑",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E9%B9%BF%E9%BC%8E%E8%AE%B0%20%E9%9F%A6%E5%B0%8F%E5%AE%9D%E5%81%B7%E7%AC%91"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "恬淡",
+      "en": "Tranquility",
+      "desc": "不争不抢的平和之乐",
+      "source": "陶渊明《饮酒》",
+      "classics": {
+        "honglou": "宝琴折梅",
+        "xiyou": "镇元大仙",
+        "shuihu": "罗真人",
+        "sanguo": "司马徽"
+      },
+      "media": {
+        "music": {
+          "id": 139891,
+          "title": "渔舟唱晚",
+          "url": "https://music.163.com/#/song?id=139891"
+        },
+        "video": {
+          "keyword": "卧虎藏龙 竹林打坐",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E5%8D%A7%E8%99%8E%E8%97%8F%E9%BE%99%20%E7%AB%B9%E6%9E%97%E6%89%93%E5%9D%90"
+        }
+      },
+      "spectrum": {
+        "intensity": 3,
+        "polarity": "+",
+        "duration": "持久",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.7,
+          "arousal": 0.3
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "惊喜",
+      "en": "Surprise-Joy",
+      "desc": "意料之外的乐趣",
+      "source": "萧何追韩信",
+      "classics": {
+        "honglou": "宝玉收帖",
+        "xiyou": "得救兵",
+        "shuihu": "逢好汉",
+        "sanguo": "得良将"
+      },
+      "media": {
+        "music": {
+          "id": 139893,
+          "title": "欢沁 (林海)",
+          "url": "https://music.163.com/#/song?id=139893"
+        },
+        "video": {
+          "keyword": "琅琊榜 梅长苏相认",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%90%85%E7%90%8A%E6%A6%9C%20%E6%A2%85%E9%95%BF%E8%8B%8F%E7%9B%B8%E8%AE%A4"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "短暂",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "自嘲",
+      "en": "Self-mockery",
+      "desc": "通过嘲笑自己获得解脱",
+      "source": "苏轼《自题》",
+      "classics": {
+        "honglou": "宝玉自称浊玉",
+        "xiyou": "八戒说自己笨",
+        "shuihu": "宋江自称罪人",
+        "sanguo": "曹操割须弃袍"
+      },
+      "media": {
+        "music": {
+          "id": 139895,
+          "title": "济公 (主题曲)",
+          "url": "https://music.163.com/#/song?id=139895"
+        },
+        "video": {
+          "keyword": "苏东坡 电视剧 豁达",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%8B%8F%E4%B8%9C%E5%9D%A1%20%E7%94%B5%E8%A7%86%E5%89%A7%20%E8%B1%81%E8%BE%BE"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "会心",
+      "en": "Understanding Smile",
+      "desc": "默契相视一笑",
+      "source": "高山流水",
+      "classics": {
+        "honglou": "宝黛共读",
+        "xiyou": "悟空气息相通",
+        "shuihu": "兄弟眼神",
+        "sanguo": "刘关张"
+      },
+      "media": {
+        "music": {
+          "id": 139897,
+          "title": "知音 (李谷一)",
+          "url": "https://music.163.com/#/song?id=139897"
+        },
+        "video": {
+          "keyword": "三国 诸葛亮周瑜对视",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9B%BD%20%E8%AF%B8%E8%91%9B%E4%BA%AE%E5%91%A8%E7%91%9C%E5%AF%B9%E8%A7%86"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    }
+  ]
+}

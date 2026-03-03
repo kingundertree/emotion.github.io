@@ -1,0 +1,467 @@
+{
+  "id": "anger",
+  "title": "【怒】愤慨与力量",
+  "en": "Anger & Indignation",
+  "items": [
+    {
+      "name": "愤怒",
+      "en": "Anger",
+      "desc": "通用的生气状态",
+      "source": "唐雎不辱使命",
+      "classics": {
+        "honglou": "宝玉踢袭人",
+        "xiyou": "悟空三打白骨精被误解",
+        "shuihu": "鲁提辖拳打镇关西",
+        "sanguo": "张飞怒鞭督邮"
+      },
+      "media": {
+        "music": {
+          "id": 139839,
+          "title": "十面埋伏 (列营)",
+          "url": "https://music.163.com/#/song?id=139839"
+        },
+        "video": {
+          "keyword": "鸿门宴 樊哙闯帐",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E9%B8%BF%E9%97%A8%E5%AE%B4%20%E6%A8%8A%E5%93%99%E9%97%AF%E5%B8%90"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "anger",
+        "dimension": {
+          "valence": -0.6,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "暴怒",
+      "en": "Rage",
+      "desc": "失去理智的极端爆发",
+      "source": "秦始皇焚书坑儒",
+      "classics": {
+        "honglou": "贾政毒打宝玉",
+        "xiyou": "悟空推倒人参果树",
+        "shuihu": "李逵沂岭杀四虎",
+        "sanguo": "曹操杀吕伯奢全家"
+      },
+      "media": {
+        "music": {
+          "id": 139841,
+          "title": "英雄 (鼓乐)",
+          "url": "https://music.163.com/#/song?id=139841"
+        },
+        "video": {
+          "keyword": "荆轲刺秦王 秦王震怒",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%8D%86%E8%BD%B2%E5%88%BA%E7%A7%A6%E7%8E%8B%20%E7%A7%A6%E7%8E%8B%E9%9C%87%E6%80%92"
+        }
+      },
+      "spectrum": {
+        "intensity": 8,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "anger",
+        "dimension": {
+          "valence": -0.6,
+          "arousal": 0.8
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "愤慨",
+      "en": "Indignation",
+      "desc": "针对不公义的道德性愤怒",
+      "source": "岳飞《满江红》",
+      "classics": {
+        "honglou": "晴雯被逐",
+        "xiyou": "悟空怒斥神仙纵奴",
+        "shuihu": "林冲火并王伦",
+        "sanguo": "祢衡击鼓骂曹"
+      },
+      "media": {
+        "music": {
+          "id": 139843,
+          "title": "满江红 (电影配乐)",
+          "url": "https://music.163.com/#/song?id=139843"
+        },
+        "video": {
+          "keyword": "满江红 电影结局",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%BB%A1%E6%B1%9F%E7%BA%A2%20%E7%94%B5%E5%BD%B1%E7%BB%93%E5%B1%80"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "anger",
+        "dimension": {
+          "valence": -0.6,
+          "arousal": 0.8
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "恼火",
+      "en": "Annoyance",
+      "desc": "轻微的、因琐事引起的不快",
+      "source": "《世说新语》",
+      "classics": {
+        "honglou": "黛玉恼周瑞家的",
+        "xiyou": "唐僧恼悟空杀人",
+        "shuihu": "杨志恼卖刀牛二",
+        "sanguo": "周瑜恼孔明借箭"
+      },
+      "media": {
+        "music": {
+          "id": 139845,
+          "title": "红楼梦 (序曲)",
+          "url": "https://music.163.com/#/song?id=139845"
+        },
+        "video": {
+          "keyword": "武林外传 佟湘玉生气",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%20%E4%BD%9F%E6%B9%98%E7%8E%89%E7%94%9F%E6%B0%94"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "anger",
+        "dimension": {
+          "valence": -0.6,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "嫉恨",
+      "en": "Jealous Rage",
+      "desc": "因嫉妒而生的怒火",
+      "source": "周瑜既生瑜何生亮",
+      "classics": {
+        "honglou": "赵姨娘害宝玉",
+        "xiyou": "六耳猕猴嫉恨悟空",
+        "shuihu": "王伦嫉恨林冲",
+        "sanguo": "庞德嫉恨关羽"
+      },
+      "media": {
+        "music": {
+          "id": 139847,
+          "title": "三国演义 (卧龙吟变奏)",
+          "url": "https://music.163.com/#/song?id=139847"
+        },
+        "video": {
+          "keyword": "甄嬛传 华妃嫉妒",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%94%84%E5%AC%9B%E4%BC%A0%20%E5%8D%8E%E5%A6%83%E5%AB%89%E5%A6%92"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "anger",
+        "dimension": {
+          "valence": -0.6,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "震怒",
+      "en": "Fury",
+      "desc": "上位者的雷霆之怒",
+      "source": "武则天清洗",
+      "classics": {
+        "honglou": "贾母震怒",
+        "xiyou": "玉帝怒派天兵",
+        "shuihu": "高俅怒逼王进",
+        "sanguo": "孙权怒摔酒杯"
+      },
+      "media": {
+        "music": {
+          "id": 139849,
+          "title": "大明宫词 (序曲)",
+          "url": "https://music.163.com/#/song?id=139849"
+        },
+        "video": {
+          "keyword": "康熙王朝 大殿训话",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E5%BA%B7%E7%86%99%E7%8E%8B%E6%9C%9D%20%E5%A4%A7%E6%AE%BF%E8%AE%AD%E8%AF%9D"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "anger",
+        "dimension": {
+          "valence": -0.6,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "悲愤",
+      "en": "Grief-anger",
+      "desc": "悲伤与愤怒交织",
+      "source": "伍子胥鞭尸",
+      "classics": {
+        "honglou": "黛玉焚稿",
+        "xiyou": "悟空见师父被抓",
+        "shuihu": "林冲雪夜上梁山",
+        "sanguo": "诸葛亮哭周瑜"
+      },
+      "media": {
+        "music": {
+          "id": 139851,
+          "title": "卧虎藏龙 (永恒誓言)",
+          "url": "https://music.163.com/#/song?id=139851"
+        },
+        "video": {
+          "keyword": "赵氏孤儿 程婴教子",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E6%B0%8F%E5%AD%A4%E5%84%BF%20%E7%A8%8B%E5%A9%B4%E6%95%99%E5%AD%90"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "anger",
+        "dimension": {
+          "valence": -0.6,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "愠怒",
+      "en": "Resentment",
+      "desc": "压抑在心中未爆发的怒气",
+      "source": "韩信受胯下之辱",
+      "classics": {
+        "honglou": "探春对赵姨娘",
+        "xiyou": "白龙马忍辱负重",
+        "shuihu": "杨志失陷生辰纲",
+        "sanguo": "徐庶进曹营"
+      },
+      "media": {
+        "music": {
+          "id": 139853,
+          "title": "大秦帝国 (裂变)",
+          "url": "https://music.163.com/#/song?id=139853"
+        },
+        "video": {
+          "keyword": "琅琊榜 梅长苏隐忍",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%90%85%E7%90%8A%E6%A6%9C%20%E6%A2%85%E9%95%BF%E8%8B%8F%E9%9A%90%E5%BF%8D"
+        }
+      },
+      "spectrum": {
+        "intensity": 3,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "anger",
+        "dimension": {
+          "valence": -0.6,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "狂躁",
+      "en": "Irritation",
+      "desc": "焦躁不安引发的攻击性",
+      "source": "张飞醉酒",
+      "classics": {
+        "honglou": "夏金桂撒泼",
+        "xiyou": "八戒嚷嚷分行李",
+        "shuihu": "阎婆惜要挟宋江",
+        "sanguo": "魏延狂躁反骨"
+      },
+      "media": {
+        "music": {
+          "id": 139855,
+          "title": "长安十二时辰 (序曲)",
+          "url": "https://music.163.com/#/song?id=139855"
+        },
+        "video": {
+          "keyword": "三国 张飞醉酒鞭打",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9B%BD%20%E5%BC%A0%E9%A3%9E%E9%86%89%E9%85%92%E9%9E%AD%E6%89%93"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "anger",
+        "dimension": {
+          "valence": -0.6,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "决绝之怒",
+      "en": "Righteous Wrath",
+      "desc": "带有牺牲精神的愤怒",
+      "source": "蔺相如怒发冲冠",
+      "classics": {
+        "honglou": "鸳鸯抗婚",
+        "xiyou": "悟空誓死护师",
+        "shuihu": "阮氏三雄劫生辰纲",
+        "sanguo": "黄盖苦肉计"
+      },
+      "media": {
+        "music": {
+          "id": 139857,
+          "title": "赤壁 (荡寇志)",
+          "url": "https://music.163.com/#/song?id=139857"
+        },
+        "video": {
+          "keyword": "大明王朝1566 海瑞上疏",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%98%8E%E7%8E%8B%E6%9C%9D1566%20%E6%B5%B7%E7%91%9E%E4%B8%8A%E7%96%8F"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "anger",
+        "dimension": {
+          "valence": -0.6,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    }
+  ]
+}

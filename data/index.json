@@ -1,0 +1,394 @@
+{
+  "version": "2.0.0",
+  "lastUpdated": "2026-03-03T04:44:24.671Z",
+  "categories": [
+    {
+      "id": "joy",
+      "title": "【喜】欢愉与希望",
+      "en": "Joy & Hope",
+      "count": 10,
+      "emotions": [
+        {
+          "name": "欣喜",
+          "en": "Delight"
+        },
+        {
+          "name": "狂喜",
+          "en": "Ecstasy"
+        },
+        {
+          "name": "欣慰",
+          "en": "Gratification"
+        },
+        {
+          "name": "庆幸",
+          "en": "Relief"
+        },
+        {
+          "name": "自豪",
+          "en": "Pride"
+        },
+        {
+          "name": "陶醉",
+          "en": "Enchantment"
+        },
+        {
+          "name": "雀跃",
+          "en": "Exuberance"
+        },
+        {
+          "name": "知足",
+          "en": "Contentment"
+        },
+        {
+          "name": "期待",
+          "en": "Anticipation"
+        },
+        {
+          "name": "释然",
+          "en": "Liberation"
+        }
+      ]
+    },
+    {
+      "id": "anger",
+      "title": "【怒】愤慨与力量",
+      "en": "Anger & Indignation",
+      "count": 10,
+      "emotions": [
+        {
+          "name": "愤怒",
+          "en": "Anger"
+        },
+        {
+          "name": "暴怒",
+          "en": "Rage"
+        },
+        {
+          "name": "愤慨",
+          "en": "Indignation"
+        },
+        {
+          "name": "恼火",
+          "en": "Annoyance"
+        },
+        {
+          "name": "嫉恨",
+          "en": "Jealous Rage"
+        },
+        {
+          "name": "震怒",
+          "en": "Fury"
+        },
+        {
+          "name": "悲愤",
+          "en": "Grief-anger"
+        },
+        {
+          "name": "愠怒",
+          "en": "Resentment"
+        },
+        {
+          "name": "狂躁",
+          "en": "Irritation"
+        },
+        {
+          "name": "决绝之怒",
+          "en": "Righteous Wrath"
+        }
+      ]
+    },
+    {
+      "id": "sorrow",
+      "title": "【哀】悲痛与失落",
+      "en": "Sorrow & Grief",
+      "count": 10,
+      "emotions": [
+        {
+          "name": "悲伤",
+          "en": "Sadness"
+        },
+        {
+          "name": "悲痛",
+          "en": "Grief"
+        },
+        {
+          "name": "哀愁",
+          "en": "Melancholy"
+        },
+        {
+          "name": "绝望",
+          "en": "Despair"
+        },
+        {
+          "name": "惋惜",
+          "en": "Regret"
+        },
+        {
+          "name": "孤寂",
+          "en": "Loneliness"
+        },
+        {
+          "name": "凄楚",
+          "en": "Distress"
+        },
+        {
+          "name": "缅怀",
+          "en": "Mourning"
+        },
+        {
+          "name": "幻灭",
+          "en": "Disillusionment"
+        },
+        {
+          "name": "苍凉",
+          "en": "Desolation"
+        }
+      ]
+    },
+    {
+      "id": "amusement",
+      "title": "【乐】趣味与安逸",
+      "en": "Amusement & Serenity",
+      "count": 10,
+      "emotions": [
+        {
+          "name": "愉悦",
+          "en": "Pleasure"
+        },
+        {
+          "name": "诙谐",
+          "en": "Amusement"
+        },
+        {
+          "name": "惬意",
+          "en": "Coziness"
+        },
+        {
+          "name": "调侃",
+          "en": "Playfulness"
+        },
+        {
+          "name": "逍遥",
+          "en": "Carefree"
+        },
+        {
+          "name": "窃喜",
+          "en": "Smugness"
+        },
+        {
+          "name": "恬淡",
+          "en": "Tranquility"
+        },
+        {
+          "name": "惊喜",
+          "en": "Surprise-Joy"
+        },
+        {
+          "name": "自嘲",
+          "en": "Self-mockery"
+        },
+        {
+          "name": "会心",
+          "en": "Understanding Smile"
+        }
+      ]
+    },
+    {
+      "id": "fear",
+      "title": "【惧】惊恐与敬畏",
+      "en": "Fear & Awe",
+      "count": 10,
+      "emotions": [
+        {
+          "name": "恐惧",
+          "en": "Fear"
+        },
+        {
+          "name": "惊恐",
+          "en": "Terror"
+        },
+        {
+          "name": "畏惧",
+          "en": "Dread"
+        },
+        {
+          "name": "惊慌",
+          "en": "Panic"
+        },
+        {
+          "name": "疑惧",
+          "en": "Apprehension"
+        },
+        {
+          "name": "战栗",
+          "en": "Trembling"
+        },
+        {
+          "name": "敬畏",
+          "en": "Awe"
+        },
+        {
+          "name": "心悸",
+          "en": "Horror"
+        },
+        {
+          "name": "怯懦",
+          "en": "Cowardice"
+        },
+        {
+          "name": "梦魇",
+          "en": "Nightmare"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "【爱】深情与眷恋",
+      "en": "Love & Affection",
+      "count": 10,
+      "emotions": [
+        {
+          "name": "慈爱",
+          "en": "Compassion"
+        },
+        {
+          "name": "热恋",
+          "en": "Passion"
+        },
+        {
+          "name": "依恋",
+          "en": "Attachment"
+        },
+        {
+          "name": "倾慕",
+          "en": "Adoration"
+        },
+        {
+          "name": "怜惜",
+          "en": "Tenderness"
+        },
+        {
+          "name": "挚爱",
+          "en": "Devotion"
+        },
+        {
+          "name": "友爱",
+          "en": "Friendship"
+        },
+        {
+          "name": "博爱",
+          "en": "Universal Love"
+        },
+        {
+          "name": "相思",
+          "en": "Longing"
+        },
+        {
+          "name": "守护",
+          "en": "Protectiveness"
+        }
+      ]
+    },
+    {
+      "id": "disgust",
+      "title": "【恶】厌恶与鄙夷",
+      "en": "Disgust & Contempt",
+      "count": 10,
+      "emotions": [
+        {
+          "name": "厌恶",
+          "en": "Disgust"
+        },
+        {
+          "name": "鄙夷",
+          "en": "Contempt"
+        },
+        {
+          "name": "憎恨",
+          "en": "Hatred"
+        },
+        {
+          "name": "嫌弃",
+          "en": "Revulsion"
+        },
+        {
+          "name": "愤懑",
+          "en": "Abhorrence"
+        },
+        {
+          "name": "轻蔑",
+          "en": "Scorn"
+        },
+        {
+          "name": "作呕",
+          "en": "Nausea"
+        },
+        {
+          "name": "唾弃",
+          "en": "Spurning"
+        },
+        {
+          "name": "忌惮",
+          "en": "Loathing with Fear"
+        },
+        {
+          "name": "寒心",
+          "en": "Chill"
+        }
+      ]
+    },
+    {
+      "id": "surprise",
+      "title": "【惊】震撼与错愕",
+      "en": "Surprise & Shock",
+      "count": 10,
+      "emotions": [
+        {
+          "name": "惊讶",
+          "en": "Surprise"
+        },
+        {
+          "name": "震惊",
+          "en": "Shock"
+        },
+        {
+          "name": "错愕",
+          "en": "Bewilderment"
+        },
+        {
+          "name": "骇然",
+          "en": "Alarm"
+        },
+        {
+          "name": "惊叹",
+          "en": "Wonder"
+        },
+        {
+          "name": "恍悟",
+          "en": "Realization"
+        },
+        {
+          "name": "呆滞",
+          "en": "Stunned"
+        },
+        {
+          "name": "诧异",
+          "en": "Curiosity-Surprise"
+        },
+        {
+          "name": "惊魂",
+          "en": "Frightened Surprise"
+        },
+        {
+          "name": "颠覆",
+          "en": "Paradigm Shift"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEmotions": 80,
+    "totalCategories": 8
+  }
+}

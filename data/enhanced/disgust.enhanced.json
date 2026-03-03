@@ -1,0 +1,467 @@
+{
+  "id": "disgust",
+  "title": "【恶】厌恶与鄙夷",
+  "en": "Disgust & Contempt",
+  "items": [
+    {
+      "name": "厌恶",
+      "en": "Disgust",
+      "desc": "通用的反感情绪",
+      "source": "论语乡原",
+      "classics": {
+        "honglou": "妙玉嫌刘姥姥",
+        "xiyou": "悟空嫌脏",
+        "shuihu": "好汉嫌贪官",
+        "sanguo": "祢衡嫌俗人"
+      },
+      "media": {
+        "music": {
+          "id": 139939,
+          "title": "大宅门 (序曲)",
+          "url": "https://music.163.com/#/song?id=139939"
+        },
+        "video": {
+          "keyword": "琅琊榜 谢玉出场",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%90%85%E7%90%8A%E6%A6%9C%20%E8%B0%A2%E7%8E%89%E5%87%BA%E5%9C%BA"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "disgust",
+        "dimension": {
+          "valence": -0.5,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "鄙夷",
+      "en": "Contempt",
+      "desc": "看不起，认为低劣",
+      "source": "燕雀安知",
+      "classics": {
+        "honglou": "黛玉鄙夷仕途",
+        "xiyou": "神仙嫌凡夫",
+        "shuihu": "林冲鄙夷小人",
+        "sanguo": "关羽鄙夷孙权"
+      },
+      "media": {
+        "music": {
+          "id": 139941,
+          "title": "笑傲江湖 (琴箫合奏)",
+          "url": "https://music.163.com/#/song?id=139941"
+        },
+        "video": {
+          "keyword": "三国演义 祢衡骂曹",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%20%E7%A5%A2%E8%A1%A1%E9%AA%82%E6%9B%B9"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "disgust",
+        "dimension": {
+          "valence": -0.5,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "憎恨",
+      "en": "Hatred",
+      "desc": "强烈的敌意",
+      "source": "伍子胥鞭尸",
+      "classics": {
+        "honglou": "贾环恨宝玉",
+        "xiyou": "妖魔恨行者",
+        "shuihu": "林冲恨高俅",
+        "sanguo": "刘备恨曹操"
+      },
+      "media": {
+        "music": {
+          "id": 139943,
+          "title": "赵氏孤儿 (仇恨)",
+          "url": "https://music.163.com/#/song?id=139943"
+        },
+        "video": {
+          "keyword": "天龙八部 萧远山",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E9%BE%99%E5%85%AB%E9%83%A8%20%E8%90%A7%E8%BF%9C%E5%B1%B1"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "disgust",
+        "dimension": {
+          "valence": -0.5,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "嫌弃",
+      "en": "Revulsion",
+      "desc": "不愿接近的排斥",
+      "source": "亭长妻嫌韩信",
+      "classics": {
+        "honglou": "王夫人嫌晴雯",
+        "xiyou": "八戒嫌累",
+        "shuihu": "潘金莲嫌武大",
+        "sanguo": "曹操嫌祢衡"
+      },
+      "media": {
+        "music": {
+          "id": 139945,
+          "title": "武林外传 (滑稽)",
+          "url": "https://music.163.com/#/song?id=139945"
+        },
+        "video": {
+          "keyword": "知否 林小娘被嫌弃",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%9F%A5%E5%90%A6%20%E6%9E%97%E5%B0%8F%E5%A8%98%E8%A2%AB%E5%AB%8C%E5%BC%83"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "disgust",
+        "dimension": {
+          "valence": -0.5,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "愤懑",
+      "en": "Abhorrence",
+      "desc": "对不公的深恶痛绝",
+      "source": "屈原《离骚》",
+      "classics": {
+        "honglou": "尤三姐控诉",
+        "xiyou": "车迟国恨道",
+        "shuihu": "武松恨西门庆",
+        "sanguo": "吉平恨曹"
+      },
+      "media": {
+        "music": {
+          "id": 139947,
+          "title": "离骚 (古琴)",
+          "url": "https://music.163.com/#/song?id=139947"
+        },
+        "video": {
+          "keyword": "大明王朝1566 海瑞",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%98%8E%E7%8E%8B%E6%9C%9D1566%20%E6%B5%B7%E7%91%9E"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "disgust",
+        "dimension": {
+          "valence": -0.5,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "轻蔑",
+      "en": "Scorn",
+      "desc": "傲慢地看不起",
+      "source": "关羽虎女",
+      "classics": {
+        "honglou": "凤姐轻蔑贾瑞",
+        "xiyou": "大圣轻蔑天兵",
+        "shuihu": "武松轻蔑蒋门神",
+        "sanguo": "张飞轻蔑严颜"
+      },
+      "media": {
+        "music": {
+          "id": 139949,
+          "title": "三国 (关羽主题)",
+          "url": "https://music.163.com/#/song?id=139949"
+        },
+        "video": {
+          "keyword": "绣春刀 丁修",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%BB%A3%E6%98%A5%E5%88%80%20%E4%B8%81%E4%BF%AE"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "disgust",
+        "dimension": {
+          "valence": -0.5,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "作呕",
+      "en": "Nausea",
+      "desc": "极度生理性厌恶",
+      "source": "惠帝见人彘",
+      "classics": {
+        "honglou": "贾赦强娶",
+        "xiyou": "见妖怪吃人",
+        "shuihu": "见孙二娘包子",
+        "sanguo": "见董卓尸体"
+      },
+      "media": {
+        "music": {
+          "id": 139951,
+          "title": "黑太阳731 (配乐)",
+          "url": "https://music.163.com/#/song?id=139951"
+        },
+        "video": {
+          "keyword": "投名状 尸横遍野",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%8A%95%E5%90%8D%E7%8A%B6%20%E5%B0%B8%E6%A8%AA%E9%81%8D%E9%87%8E"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "disgust",
+        "dimension": {
+          "valence": -0.5,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "唾弃",
+      "en": "Spurning",
+      "desc": "像吐口水一样抛弃",
+      "source": "后人唾弃秦桧",
+      "classics": {
+        "honglou": "众人唾弃贾雨村",
+        "xiyou": "百姓唾弃妖道",
+        "shuihu": "百姓唾弃高俅",
+        "sanguo": "后人唾弃吕布"
+      },
+      "media": {
+        "music": {
+          "id": 139953,
+          "title": "包青天 (铡美案)",
+          "url": "https://music.163.com/#/song?id=139953"
+        },
+        "video": {
+          "keyword": "白毛女 控诉",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%99%BD%E6%AF%9B%E5%A5%B3%20%E6%8E%A7%E8%AF%89"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "disgust",
+        "dimension": {
+          "valence": -0.5,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "忌惮",
+      "en": "Loathing with Fear",
+      "desc": "既讨厌又害怕",
+      "source": "曹操忌惮刘备",
+      "classics": {
+        "honglou": "凤姐忌惮尤二姐",
+        "xiyou": "妖怪忌惮悟空",
+        "shuihu": "官府忌惮梁山",
+        "sanguo": "曹操忌惮关羽"
+      },
+      "media": {
+        "music": {
+          "id": 139955,
+          "title": "三国演义 (青梅煮酒)",
+          "url": "https://music.163.com/#/song?id=139955"
+        },
+        "video": {
+          "keyword": "甄嬛传 皇上忌惮",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%94%84%E5%AC%9B%E4%BC%A0%20%E7%9A%87%E4%B8%8A%E5%BF%8C%E6%83%AE"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "disgust",
+        "dimension": {
+          "valence": -0.5,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "寒心",
+      "en": "Chill",
+      "desc": "因背叛而心冷",
+      "source": "韩信叹走狗烹",
+      "classics": {
+        "honglou": "宝玉寒心",
+        "xiyou": "悟空寒心被逐",
+        "shuihu": "林冲寒心",
+        "sanguo": "徐庶寒心"
+      },
+      "media": {
+        "music": {
+          "id": 139957,
+          "title": "水浒传 (林冲主题)",
+          "url": "https://music.163.com/#/song?id=139957"
+        },
+        "video": {
+          "keyword": "雍正王朝 年羹尧赐死",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E9%9B%8D%E6%AD%A3%E7%8E%8B%E6%9C%9D%20%E5%B9%B4%E7%BE%B9%E5%B0%A7%E8%B5%90%E6%AD%BB"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "disgust",
+        "dimension": {
+          "valence": -0.5,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    }
+  ]
+}

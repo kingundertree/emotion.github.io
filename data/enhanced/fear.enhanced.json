@@ -1,0 +1,467 @@
+{
+  "id": "fear",
+  "title": "【惧】惊恐与敬畏",
+  "en": "Fear & Awe",
+  "items": [
+    {
+      "name": "恐惧",
+      "en": "Fear",
+      "desc": "面对具体威胁的害怕",
+      "source": "秦舞阳色变",
+      "classics": {
+        "honglou": "贾瑞照镜",
+        "xiyou": "唐僧怕妖",
+        "shuihu": "百姓怕官",
+        "sanguo": "汉献帝怕曹"
+      },
+      "media": {
+        "music": {
+          "id": 139899,
+          "title": "十面埋伏 (埋伏)",
+          "url": "https://music.163.com/#/song?id=139899"
+        },
+        "video": {
+          "keyword": "荆轲刺秦王 秦舞阳发抖",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%8D%86%E8%BD%B2%E5%88%BA%E7%A7%A6%E7%8E%8B%20%E7%A7%A6%E8%88%9E%E9%98%B3%E5%8F%91%E6%8A%96"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "fear",
+        "dimension": {
+          "valence": -0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "惊恐",
+      "en": "Terror",
+      "desc": "极度惊吓，心理崩溃",
+      "source": "四面楚歌",
+      "classics": {
+        "honglou": "抄检大观园",
+        "xiyou": "见真身",
+        "shuihu": "见鬼怪",
+        "sanguo": "木牛流马"
+      },
+      "media": {
+        "music": {
+          "id": 139901,
+          "title": "聊斋 (主题曲)",
+          "url": "https://music.163.com/#/song?id=139901"
+        },
+        "video": {
+          "keyword": "倩女幽魂 遇鬼",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E5%80%A9%E5%A5%B3%E5%B9%BD%E9%AD%82%20%E9%81%87%E9%AC%BC"
+        }
+      },
+      "spectrum": {
+        "intensity": 8,
+        "polarity": "-",
+        "duration": "短暂",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "fear",
+        "dimension": {
+          "valence": -0.8,
+          "arousal": 0.8
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "畏惧",
+      "en": "Dread",
+      "desc": "对权威的深层害怕",
+      "source": "君子有三畏",
+      "classics": {
+        "honglou": "怕王夫人",
+        "xiyou": "怕观音",
+        "shuihu": "怕宋江",
+        "sanguo": "怕司马懿"
+      },
+      "media": {
+        "music": {
+          "id": 139903,
+          "title": "大明宫词 (乱世)",
+          "url": "https://music.163.com/#/song?id=139903"
+        },
+        "video": {
+          "keyword": "雍正王朝 朝堂跪奏",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E9%9B%8D%E6%AD%A3%E7%8E%8B%E6%9C%9D%20%E6%9C%9D%E5%A0%82%E8%B7%AA%E5%A5%8F"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "fear",
+        "dimension": {
+          "valence": -0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "惊慌",
+      "en": "Panic",
+      "desc": "混乱无序的逃跑冲动",
+      "source": "风声鹤唳",
+      "classics": {
+        "honglou": "贾府被抄",
+        "xiyou": "小妖乱窜",
+        "shuihu": "官兵溃败",
+        "sanguo": "赤壁火烧"
+      },
+      "media": {
+        "music": {
+          "id": 139905,
+          "title": "流浪地球 (危机)",
+          "url": "https://music.163.com/#/song?id=139905"
+        },
+        "video": {
+          "keyword": "一九四二 逃荒人群",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B9%9D%E5%9B%9B%E4%BA%8C%20%E9%80%83%E8%8D%92%E4%BA%BA%E7%BE%A4"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "fear",
+        "dimension": {
+          "valence": -0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "疑惧",
+      "en": "Apprehension",
+      "desc": "因不确定产生的担忧",
+      "source": "曹操杀吕伯奢",
+      "classics": {
+        "honglou": "黛玉忧心",
+        "xiyou": "真假悟空",
+        "shuihu": "林冲防暗算",
+        "sanguo": "空城计"
+      },
+      "media": {
+        "music": {
+          "id": 139907,
+          "title": "神探狄仁杰 (悬疑)",
+          "url": "https://music.163.com/#/song?id=139907"
+        },
+        "video": {
+          "keyword": "三国 曹操多疑",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9B%BD%20%E6%9B%B9%E6%93%8D%E5%A4%9A%E7%96%91"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "fear",
+        "dimension": {
+          "valence": -0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "战栗",
+      "en": "Trembling",
+      "desc": "生理性的发抖恐惧",
+      "source": "秦廷之威",
+      "classics": {
+        "honglou": "金荣跪地",
+        "xiyou": "小妖见大圣",
+        "shuihu": "泼皮见鲁达",
+        "sanguo": "夏侯杰吓死"
+      },
+      "media": {
+        "music": {
+          "id": 139909,
+          "title": "辛德勒的名单",
+          "url": "https://music.163.com/#/song?id=139909"
+        },
+        "video": {
+          "keyword": "悬崖之上 雪地颤抖",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%82%AC%E5%B4%96%E4%B9%8B%E4%B8%8A%20%E9%9B%AA%E5%9C%B0%E9%A2%A4%E6%8A%96"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "短暂",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "fear",
+        "dimension": {
+          "valence": -0.8,
+          "arousal": 0.8
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "敬畏",
+      "en": "Awe",
+      "desc": "面对神圣的谦卑之惧",
+      "source": "孔子叹老子",
+      "classics": {
+        "honglou": "祭宗祠",
+        "xiyou": "见如来",
+        "shuihu": "拜九天玄女",
+        "sanguo": "祭天地"
+      },
+      "media": {
+        "music": {
+          "id": 139911,
+          "title": "故宫的记忆 (神思者)",
+          "url": "https://music.163.com/#/song?id=139911"
+        },
+        "video": {
+          "keyword": "河西走廊 自然景观",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E8%A5%BF%E8%B5%B0%E5%BB%8A%20%E8%87%AA%E7%84%B6%E6%99%AF%E8%A7%82"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "fear",
+        "dimension": {
+          "valence": -0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "心悸",
+      "en": "Horror",
+      "desc": "心理极度不适",
+      "source": "惠帝见人彘",
+      "classics": {
+        "honglou": "秦可卿托梦",
+        "xiyou": "地狱景象",
+        "shuihu": "活剥人皮",
+        "sanguo": "左慈显圣"
+      },
+      "media": {
+        "music": {
+          "id": 139913,
+          "title": "大红灯笼高高挂",
+          "url": "https://music.163.com/#/song?id=139913"
+        },
+        "video": {
+          "keyword": "满城尽带黄金甲 血腥",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%BB%A1%E5%9F%8E%E5%B0%BD%E5%B8%A6%E9%BB%84%E9%87%91%E7%94%B2%20%E8%A1%80%E8%85%A5"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "fear",
+        "dimension": {
+          "valence": -0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "怯懦",
+      "en": "Cowardice",
+      "desc": "因害怕而不敢行动",
+      "source": "见义不为",
+      "classics": {
+        "honglou": "迎春懦弱",
+        "xiyou": "八戒退缩",
+        "shuihu": "洪教头",
+        "sanguo": "刘璋投降"
+      },
+      "media": {
+        "music": {
+          "id": 139915,
+          "title": "投名状 (背叛)",
+          "url": "https://music.163.com/#/song?id=139915"
+        },
+        "video": {
+          "keyword": "让子弹飞 师爷求饶",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E5%AD%90%E5%BC%B9%E9%A3%9E%20%E5%B8%88%E7%88%B7%E6%B1%82%E9%A5%B6"
+        }
+      },
+      "spectrum": {
+        "intensity": 3,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "fear",
+        "dimension": {
+          "valence": -0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "梦魇",
+      "en": "Nightmare",
+      "desc": "潜意识中的深层恐惧",
+      "source": "晋景公梦大厉",
+      "classics": {
+        "honglou": "赵姨娘中魔",
+        "xiyou": "唐僧噩梦",
+        "shuihu": "宋江梦玄女",
+        "sanguo": "曹操梦三马"
+      },
+      "media": {
+        "music": {
+          "id": 139917,
+          "title": "红楼梦 (噩梦)",
+          "url": "https://music.163.com/#/song?id=139917"
+        },
+        "video": {
+          "keyword": "妖猫传 梦境恐惧",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E5%A6%96%E7%8C%AB%E4%BC%A0%20%E6%A2%A6%E5%A2%83%E6%81%90%E6%83%A7"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "fear",
+        "dimension": {
+          "valence": -0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    }
+  ]
+}

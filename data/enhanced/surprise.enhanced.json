@@ -1,0 +1,467 @@
+{
+  "id": "surprise",
+  "title": "【惊】震撼与错愕",
+  "en": "Surprise & Shock",
+  "items": [
+    {
+      "name": "惊讶",
+      "en": "Surprise",
+      "desc": "普通的意外感",
+      "source": "鱼腹藏书",
+      "classics": {
+        "honglou": "刘姥姥见玻璃",
+        "xiyou": "见变化",
+        "shuihu": "见武艺",
+        "sanguo": "见奇谋"
+      },
+      "media": {
+        "music": {
+          "id": 139959,
+          "title": "欢沁 (琵琶)",
+          "url": "https://music.163.com/#/song?id=139959"
+        },
+        "video": {
+          "keyword": "武林外传 惊讶表情",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%20%E6%83%8A%E8%AE%B6%E8%A1%A8%E6%83%85"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "±",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "neutral",
+        "dimension": {
+          "valence": 0,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "震惊",
+      "en": "Shock",
+      "desc": "巨大的心理冲击",
+      "source": "四面楚歌",
+      "classics": {
+        "honglou": "宝玉听说黛玉回苏",
+        "xiyou": "见真佛",
+        "shuihu": "见招安诏",
+        "sanguo": "见八十万大军"
+      },
+      "media": {
+        "music": {
+          "id": 139961,
+          "title": "辛德勒的名单",
+          "url": "https://music.163.com/#/song?id=139961"
+        },
+        "video": {
+          "keyword": "琅琊榜 梁帝震惊",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%90%85%E7%90%8A%E6%A6%9C%20%E6%A2%81%E5%B8%9D%E9%9C%87%E6%83%8A"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "±",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "neutral",
+        "dimension": {
+          "valence": 0,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "错愕",
+      "en": "Bewilderment",
+      "desc": "因意外而发呆",
+      "source": "空城计",
+      "classics": {
+        "honglou": "贾政听诗",
+        "xiyou": "悟空被识破",
+        "shuihu": "李逵见母虎",
+        "sanguo": "庞统见落凤坡"
+      },
+      "media": {
+        "music": {
+          "id": 139963,
+          "title": "神探狄仁杰 (疑惑)",
+          "url": "https://music.163.com/#/song?id=139963"
+        },
+        "video": {
+          "keyword": "让子弹飞 黄四郎错愕",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E5%AD%90%E5%BC%B9%E9%A3%9E%20%E9%BB%84%E5%9B%9B%E9%83%8E%E9%94%99%E6%84%95"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "±",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "neutral",
+        "dimension": {
+          "valence": 0,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "骇然",
+      "en": "Alarm",
+      "desc": "被吓到的惊讶",
+      "source": "画皮揭皮",
+      "classics": {
+        "honglou": "秦可卿死",
+        "xiyou": "见骷髅",
+        "shuihu": "见人头",
+        "sanguo": "见左慈"
+      },
+      "media": {
+        "music": {
+          "id": 139965,
+          "title": "聊斋 (恐怖)",
+          "url": "https://music.163.com/#/song?id=139965"
+        },
+        "video": {
+          "keyword": "狄仁杰之通天帝国",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%8B%84%E4%BB%81%E6%9D%B0%E4%B9%8B%E9%80%9A%E5%A4%A9%E5%B8%9D%E5%9B%BD"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "±",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "neutral",
+        "dimension": {
+          "valence": 0,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "惊叹",
+      "en": "Wonder",
+      "desc": "对奇迹的赞叹",
+      "source": "核舟记",
+      "classics": {
+        "honglou": "叹宝琴",
+        "xiyou": "叹神通",
+        "shuihu": "叹神力",
+        "sanguo": "叹诸葛"
+      },
+      "media": {
+        "music": {
+          "id": 139967,
+          "title": "故宫的记忆 (辉煌)",
+          "url": "https://music.163.com/#/song?id=139967"
+        },
+        "video": {
+          "keyword": "卧虎藏龙 竹林",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E5%8D%A7%E8%99%8E%E8%97%8F%E9%BE%99%20%E7%AB%B9%E6%9E%97"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "±",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "neutral",
+        "dimension": {
+          "valence": 0,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "恍悟",
+      "en": "Realization",
+      "desc": "突然明白真相",
+      "source": "萧何追韩信",
+      "classics": {
+        "honglou": "宝玉悟禅",
+        "xiyou": "悟空悟道",
+        "shuihu": "宋江悟天书",
+        "sanguo": "徐庶悟母意"
+      },
+      "media": {
+        "music": {
+          "id": 139969,
+          "title": "少年包青天 (真相)",
+          "url": "https://music.163.com/#/song?id=139969"
+        },
+        "video": {
+          "keyword": "无间道 天台",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%97%A0%E9%97%B4%E9%81%93%20%E5%A4%A9%E5%8F%B0"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "±",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "neutral",
+        "dimension": {
+          "valence": 0,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "呆滞",
+      "en": "Stunned",
+      "desc": "惊讶到失去反应",
+      "source": "黛玉听闻婚讯",
+      "classics": {
+        "honglou": "黛玉呆傻",
+        "xiyou": "唐僧呆坐",
+        "shuihu": "武松呆立",
+        "sanguo": "曹操呆望"
+      },
+      "media": {
+        "music": {
+          "id": 139971,
+          "title": "红楼梦 (傻笑)",
+          "url": "https://music.163.com/#/song?id=139971"
+        },
+        "video": {
+          "keyword": "让子弹飞 六子死",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E5%AD%90%E5%BC%B9%E9%A3%9E%20%E5%85%AD%E5%AD%90%E6%AD%BB"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "±",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "neutral",
+        "dimension": {
+          "valence": 0,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "诧异",
+      "en": "Curiosity-Surprise",
+      "desc": "感到奇怪并探究",
+      "source": "圯上敬履",
+      "classics": {
+        "honglou": "宝钗诧异",
+        "xiyou": "八戒诧异",
+        "shuihu": "燕青诧异",
+        "sanguo": "孔明诧异"
+      },
+      "media": {
+        "music": {
+          "id": 139973,
+          "title": "神探狄仁杰 (探查)",
+          "url": "https://music.163.com/#/song?id=139973"
+        },
+        "video": {
+          "keyword": "琅琊榜 梅长苏疑惑",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E7%90%85%E7%90%8A%E6%A6%9C%20%E6%A2%85%E9%95%BF%E8%8B%8F%E7%96%91%E6%83%91"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "±",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "neutral",
+        "dimension": {
+          "valence": 0,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "惊魂",
+      "en": "Frightened Surprise",
+      "desc": "受惊后的余悸",
+      "source": "荆轲刺秦王",
+      "classics": {
+        "honglou": "宝玉被打后",
+        "xiyou": "唐僧脱险后",
+        "shuihu": "林冲逃后",
+        "sanguo": "刘备摔阿斗后"
+      },
+      "media": {
+        "music": {
+          "id": 139975,
+          "title": "惊魂记 (弦乐)",
+          "url": "https://music.163.com/#/song?id=139975"
+        },
+        "video": {
+          "keyword": "流浪地球 危机解除",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%20%E5%8D%B1%E6%9C%BA%E8%A7%A3%E9%99%A4"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "±",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "neutral",
+        "dimension": {
+          "valence": 0,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "颠覆",
+      "en": "Paradigm Shift",
+      "desc": "世界观被彻底打破",
+      "source": "王侯将相宁有种乎",
+      "classics": {
+        "honglou": "贾府被抄",
+        "xiyou": "见灵山",
+        "shuihu": "梁山被招安",
+        "sanguo": "三国归晋"
+      },
+      "media": {
+        "music": {
+          "id": 139977,
+          "title": "英雄 (苍穹之下)",
+          "url": "https://music.163.com/#/song?id=139977"
+        },
+        "video": {
+          "keyword": "觉醒年代 清帝退位",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%20%E6%B8%85%E5%B8%9D%E9%80%80%E4%BD%8D"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "±",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "neutral",
+        "dimension": {
+          "valence": 0,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    }
+  ]
+}
