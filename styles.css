@@ -216,3 +216,81 @@ footer { text-align: center; padding: 30px 20px; color: #666; font-size: 0.85rem
     .resource-grid { grid-template-columns: 1fr 1fr; }
     blockquote { padding: 10px; font-size: 0.9rem; }
 }
+
+/* === 搜索功能样式 === */
+.filter-chip {
+    padding: 6px 14px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    background: white;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.3s;
+    font-family: inherit;
+}
+
+.filter-chip:hover {
+    background: #f5f5f5;
+}
+
+.filter-chip.active {
+    background: var(--primary-red);
+    color: white;
+    border-color: var(--primary-red);
+}
+
+.search-result-item {
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.search-result-item:hover {
+    background: #f9f9f9;
+}
+
+.search-result-item h4 {
+    margin: 0 0 5px 0;
+    color: #333;
+    font-size: 1rem;
+}
+
+.search-result-item h4 small {
+    font-weight: normal;
+    color: #888;
+    font-size: 0.8rem;
+}
+
+.search-result-item p {
+    margin: 5px 0;
+    color: #666;
+    font-size: 0.85rem;
+}
+
+.category-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 0.75rem;
+    margin-right: 5px;
+}
+
+.category-tag.joy { background: #fff3cd; color: #856404; }
+.category-tag.anger { background: #f8d7da; color: #721c24; }
+.category-tag.sorrow { background: #d1ecf1; color: #0c5460; }
+.category-tag.amusement { background: #d4edda; color: #155724; }
+.category-tag.fear { background: #e2e3e5; color: #383d41; }
+.category-tag.love { background: #fce4ec; color: #880e4f; }
+.category-tag.disgust { background: #d6d6d6; color: #333; }
+
+.no-results {
+    padding: 30px;
+    text-align: center;
+    color: #888;
+}
+
+mark {
+    background: #fff3cd;
+    padding: 0 2px;
+}

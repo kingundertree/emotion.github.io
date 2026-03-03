@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>情绪搜索测试</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body { padding: 20px; background: #f5f5f5; }
+        .test-container { max-width: 800px; margin: 0 auto; background: white; padding: 30px; border-radius: 12px; }
+        h1 { color: var(--primary-red); }
+        .test-section { margin: 20px 0; padding: 20px; background: #f9f9f9; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>🧪 情绪搜索功能测试</h1>
+        
+        <div id="search-container"></div>
+        
+        <div class="test-section">
+            <h3>测试结果</h3>
+            <div id="test-results"></div>
+        </div>
+    </div>
+
+    <script src="scripts/search.js"></script>
+    <script>
+        // 加载搜索索引
+        fetch('data/search-index.json')
+            .then(res => res.json())
+            .then(index => {
+                // 初始化搜索
+                const searcher = new EmotionSearch(index);
+                
+                // 测试搜索功能
+                const tests = [
+                    { query: '欣喜', expected: 'Delight' },
+                    { query: '孤独', expected: 'Loneliness' },
+                    { query: 'joy', expected: 'Joy' },
+                    { query: '愤怒', category: 'anger' }
+                ];
+                
+                let results = '<h4>搜索测试：</h4>';
+                tests.forEach(test => {
+                    const searchResults = searcher.search(test.query, { limit: 3 });
+                    results += `<p>✅ "${test.query}" → ${searchResults.length} 条结果`;
+                    if (searchResults[0]) {
+                        results += ` (首条: ${searchResults[0].name})`;
+                    }
+                    results += '</p>';
+                });
+                
+                document.getElementById('test-results').innerHTML = results;
+                
+                // 统计信息
+                console.log('搜索索引加载成功:', index.length, '条');
+            });
+    </script>
+</body>
+</html>
