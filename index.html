@@ -36,7 +36,8 @@
                 </div>
             </div>
             <a href="#" onclick="openDailySign()">今日签</a>
-            <a href="#" onclick="toggleSearch()" style="color:var(--primary-red)">🔍 搜索</a>
+            <a href="#" onclick="toggleSearch()">🔍 搜索</a>
+            <a href="#" onclick="showVisualization()" style="color:var(--primary-red)">📊 可视化</a>
             <a href="#postscript">后记</a>
         </nav>
     </header>
@@ -207,6 +208,7 @@
     </div>
 
     <!-- 本地脚本 -->
+<<<<<<< HEAD
     <script>
         // 动态加载搜索相关脚本
         function loadScript(src) {
@@ -258,3 +260,11 @@
                 });
         }
     </script>
+=======
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+    <script src="scripts/emotion-visualizer.js"></script>
+    <script src="scripts/visualization-ui.js"></script>
+</body>
+</html>
+>>>>>>> bd8f124 (feat: 情绪词条扩展 + 名著案例 + 可视化图表)
