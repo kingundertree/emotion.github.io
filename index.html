@@ -1,3 +1,211 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>中华情绪图谱 | 四大名著专题版</title>
+    <!-- 引入字体 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- 本地样式 -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="bg-layer"></div>
+    <div class="texture-overlay"></div>
+
+    <header>
+        <div class="logo-container" onclick="window.scrollTo(0,0)">
+            <div class="seal">情</div>
+            <div class="logo">中华情绪图谱</div>
+        </div>
+        <div class="mobile-menu-btn" onclick="toggleSidebar()">☰</div>
+        <nav class="nav-links">
+            <a href="#manifesto">总纲</a>
+            <a href="#categories">情绪分类</a>
+            <div class="dropdown">
+                <a href="#" class="dropbtn">四大名著 ▾</a>
+                <div class="dropdown-content">
+                    <a href="#honglou-special">📖 红楼梦</a>
+                    <a href="#xiyou-special">🐒 西游记</a>
+                    <a href="#shuihu-special">🍶 水浒传</a>
+                    <a href="#sanguo-special">⚔️ 三国演义</a>
+                </div>
+            </div>
+            <a href="#" onclick="openDailySign()">今日签</a>
+            <a href="#" onclick="toggleSearch()" style="color:var(--primary-red)">🔍 搜索</a>
+            <a href="#postscript">后记</a>
+        </nav>
+    </header>
+
+    <div class="overlay" onclick="toggleSidebar()"></div>
+
+    <div class="container">
+        <aside id="sidebar">
+            <div class="mobile-quick-access">
+                <div class="mq-title">🚀 快捷入口</div>
+                <div class="mq-grid">
+                    <a href="#manifesto" onclick="toggleSidebar()" class="mq-btn"><span class="mq-icon">📜</span> 总纲</a>
+                    <a href="#postscript" onclick="toggleSidebar()" class="mq-btn"><span class="mq-icon">✍️</span> 后记</a>
+                </div>
+                <div class="mq-grid" style="margin-top:10px;">
+                    <a href="#" onclick="openDailySign(); toggleSidebar()" class="mq-btn"><span class="mq-icon">🎲</span> 今日签</a>
+                    <a href="#self-awareness" onclick="toggleSidebar()" class="mq-btn"><span class="mq-icon">🧘</span> 自测</a>
+                </div>
+                <div class="mq-title" style="margin-top:12px;">📚 名著直达</div>
+                <div class="mq-sub">
+                    <a href="#honglou-special" onclick="toggleSidebar()" class="mq-sub-btn">📖 红楼</a>
+                    <a href="#xiyou-special" onclick="toggleSidebar()" class="mq-sub-btn">🐒 西游</a>
+                    <a href="#shuihu-special" onclick="toggleSidebar()" class="mq-sub-btn">🍶 水浒</a>
+                    <a href="#sanguo-special" onclick="toggleSidebar()" class="mq-sub-btn">⚔️ 三国</a>
+                </div>
+            </div>
+            <div id="regular-menu-container"></div>
+        </aside>
+
+        <main id="main-content">
+            <!-- Manifesto Section -->
+            <section id="manifesto">
+                <h1>项目总纲</h1>
+                <h2 style="color:#666; border:none; font-size:1rem; margin-top:-10px;">The Chinese Emotion Spectrum - Historical Mirrors & Life Navigation</h2>
+                
+                <h3>一、核心哲学：情绪的碎片与人生的全景</h3>
+                <h4>1.1 生命的本质：情绪碎片的组合</h4>
+                <ul class="content-list">
+                    <li><strong>时间尺度：</strong>人类文明史不过四五千年，个体生命不过百年。在浩瀚宇宙中，我们拥有的唯一真实体验，就是当下这一刻的情绪。</li>
+                    <li><strong>人生构成：</strong>人生并非由宏大的事件线性组成，而是由无数个情绪碎片（喜悦的瞬间、愤怒的爆发、悲伤的沉淀、惊愕的转折）拼贴而成的马赛克。</li>
+                    <li><strong>常态认知：</strong>“人生不如意十之八九，可与言者无二三”。痛苦、孤独、焦虑是常态，而快乐、理解、共鸣是稀缺的闪光时刻。</li>
+                </ul>
+
+                <h4>1.2 项目的终极使命</h4>
+                <ul class="content-list">
+                    <li><strong>对个体（读者/用户）：</strong>“以史为鉴，照见自我”。通过检索历史上伟人在相似境遇下的情绪反应，让现代人意识到：你此刻的痛苦并不孤独。帮助用户主动选择：在漫长的一生中，我们希望更长时间保持哪一种情绪？</li>
+                    <li><strong>对创作者（编剧/导演/作家）：</strong>“高效检索，精准碰撞”。提供结构化的情绪字典，快速找到符合人物性格的历史原型和视听素材。通过“情绪碰撞”理论，设计更有张力的剧情冲突。</li>
+                    <li><strong>对教育者（学生/教师）：</strong>“情感启蒙，共情训练”。将抽象的情绪具象化为故事、音乐和画面，帮助学生理解复杂人性，提升共情能力。</li>
+                </ul>
+
+                <h3>二、架构体系：四维一体的情绪宇宙</h3>
+                <p>本项目构建了 8 大核心类 × 10 种细分情绪 = 80 种具体情绪维度的完整图谱。每个维度均包含四个核心支柱：</p>
+                <ul class="content-list">
+                    <li><strong>2.1 定义层 (Definition)：</strong>心理学定义 + 中华文化独特内涵 + 中英对照。</li>
+                    <li><strong>2.2 历史层 (Historical Mirror)：</strong>典籍索引（史记/资治通鉴）+ 人物案例 + 启示录。</li>
+                    <li><strong>2.3 艺术层 (Artistic Expression)：</strong>剧本场景 + 影视片段（B 站直达）+ 听觉符号（网易云直达）。</li>
+                    <li><strong>2.4 应用层 (Application)：</strong>自我疗愈建议 + 创作公式。</li>
+                </ul>
+
+                <h3>三、功能模块：两大核心价值场景</h3>
+                <h4>场景 A：人生导航仪 (Life Navigator)</h4>
+                <blockquote>目标：帮助用户在情绪迷雾中找到方向，延长积极情绪的驻留时间。</blockquote>
+                <ul class="content-list">
+                    <li><strong>情绪诊断：</strong>用户输入感受，系统匹配至对应情绪（如“孤寂”或“寒心”）。</li>
+                    <li><strong>历史共鸣：</strong>推送古人类似经历（如伯夷叔齐的“孤寂”、苏轼的“释然”）。</li>
+                    <li><strong>视听疗愈：</strong>推荐疏导音乐与影视混剪。</li>
+                    <li><strong>行动指引：</strong>提问并引导用户选择更积极的情绪状态。</li>
+                </ul>
+
+                <h4>场景 B：创作加速器 (Creation Accelerator)</h4>
+                <blockquote>目标：解决剧情平淡、人物单薄、情绪不准的痛点。</blockquote>
+                <ul class="content-list">
+                    <li><strong>精准检索：</strong>输入需求（如“表面恭顺内心憎恨”），输出锁定【恶】类下的“忌惮”及素材。</li>
+                    <li><strong>情绪碰撞生成器：</strong>选择两种情绪（如“狂喜” + “惊恐”），生成“范进中举”式剧情结构。</li>
+                    <li><strong>多模态素材包：</strong>一键打包古文台词 + 参考 BGM + 镜头语言建议。</li>
+                    <li><strong>人物弧光设计：</strong>辅助设计从“雀跃”到“幻灭”再到“恬淡”的成长线。</li>
+                </ul>
+
+                <h3>四、实施路线图 (Roadmap)</h3>
+                <ul class="content-list">
+                    <li><strong>第一阶段：基石构建 (已完成 ✅)</strong> - 完成 80 种情绪定义、中英文对照及权威索引库。</li>
+                    <li><strong>第二阶段：数字化产品化 (规划中)</strong> - 数据库搭建、标签系统、交互原型开发。</li>
+                    <li><strong>第三阶段：内容生态与传播</strong> - 系列出版物、短视频栏目、教育课程。</li>
+                </ul>
+
+                <h3>五、结语</h3>
+                <blockquote>“我们无法拉长生命的长度（百年），但可以通过丰富情绪的质感来拓展生命的宽度。”</blockquote>
+                <p>本项目的愿景，是让每一个翻开它的人明白：痛苦是有源头的，你不是一个人在战斗；快乐是有方法的，古人早已留下了密码；情绪是可以被看见、被命名、被转化的。</p>
+            </section>
+
+            <div id="categories-container"></div>
+            <div id="classics-container"></div>
+
+            <section id="self-awareness">
+                <h1>🧘 自我觉察 · 情绪雷达</h1>
+                <p>回答以下 8 个问题，生成您当前的情绪状态雷达图。</p>
+                <div id="quiz-box" class="quiz-form"></div>
+                <div id="chart-box" class="chart-container" style="display:none;">
+                    <canvas id="emotionRadar"></canvas>
+                    <button class="btn-primary" onclick="resetQuiz()" style="margin-top:20px;">重新测试</button>
+                </div>
+            </section>
+
+            <section id="postscript">
+                <h1>后记</h1>
+                
+                <h2>11.1 写给未来的信：在情绪洪流中安顿身心</h2>
+                <p>当我们整理完这 80 种情绪，回望历史长河，会发现一个惊人的事实：<strong>太阳底下并无新鲜事</strong>。</p>
+                <p>你此刻经历的撕心裂肺的“悲痛”，两千年前的屈原在汨罗江畔经历过；你此刻感受到的无人理解的“孤寂”，千百年前的柳宗元在寒江雪中体会过；你此刻因不公而燃起的“愤慨”，岳飞在风波亭前曾仰天长啸。</p>
+                <p>人类的历史不过四五千年，每个人的生命不过百年。我们常常觉得自己的情绪是独一无二的孤岛，但这份图谱告诉我们：<strong>你并不孤独</strong>。你的每一个情绪碎片，都在历史的镜像中找到了回响。</p>
+                
+                <blockquote>
+                    编纂这份图谱的初衷，不仅仅是为了给编剧提供素材，给学生提供考点，更是为了给每一个在深夜里辗转反侧的灵魂，提供一盏灯。
+                </blockquote>
+
+                <ul class="content-list">
+                    <li>当你陷入<strong>绝望</strong>时，看看古人如何从绝境中生出希望。</li>
+                    <li>当你被<strong>憎恨</strong>吞噬时，想想“仁者爱人”的博爱是否更能解脱。</li>
+                    <li>当你感到<strong>幻灭</strong>时，或许逍遥与恬淡是另一种出路。</li>
+                </ul>
+
+                <p>我们无法拉长生命的长度，但我们可以拓展生命的宽度。通过识别、命名、理解这些情绪，我们不再是情绪的奴隶，而是它们的主人。</p>
+                <p>愿你在读完这份图谱后，能更清醒地选择：<strong>在余下的漫长人生中，你希望更长时间地保持哪一种情绪？</strong></p>
+                <p>是选择被“怨怒”裹挟，还是选择让“欣慰”常驻？<br>
+                是沉溺于“凄楚”，还是修炼出“释然”？</p>
+                <p style="text-align: center; font-weight: bold; margin-top: 20px; color: var(--primary-red);">历史已逝，情绪永存。愿这份图谱，成为你安顿身心的港湾。</p>
+
+                <h2 style="margin-top: 40px;">11.2 致谢与编撰说明</h2>
+                <ul class="content-list">
+                    <li>感谢《史记》、《资治通鉴》、《论语》等中华典籍提供的无尽素材。</li>
+                    <li>感谢历代电影人、音乐家，用光影和旋律具象化了这些抽象的情感。</li>
+                    <li>本图谱将持续更新，欢迎读者补充新的历史案例与当代影视素材。</li>
+                </ul>
+            </section>
+
+            <footer>
+                <p>&copy; 2026 中华情绪图谱 | 四大名著专题版</p>
+            </footer>
+        </main>
+    </div>
+
+    <!-- Search Modal -->
+    <div id="searchModal" class="modal" style="display:none;">
+        <div class="modal-content" style="max-width:600px; max-height:80vh; overflow-y:auto;">
+            <span class="close-modal" onclick="closeSearch()">&times;</span>
+            <h2 style="text-align:center; margin-bottom:20px;">🔍 情绪搜索</h2>
+            <input type="text" id="searchInput" placeholder="搜索情绪（如：欣喜、孤独、惊喜...）" 
+                style="width:100%; padding:12px; font-size:1rem; border:2px solid #e0e0e0; border-radius:8px; box-sizing:border-box; margin-bottom:15px;"
+                onkeypress="if(event.key==='Enter')performSearch()">
+            <div style="text-align:center; margin-bottom:15px;">
+                <button onclick="performSearch()" style="padding:10px 30px; background:var(--primary-red); color:white; border:none; border-radius:8px; cursor:pointer; font-size:1rem;">搜索</button>
+            </div>
+            <div id="searchResults" style="max-height:400px; overflow-y:auto;"></div>
+        </div>
+    </div>
+
+    <!-- Daily Sign Modal -->
+    <div id="dailyModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeDailySign()">&times;</span>
+            <div class="sign-title" id="signTitle">喜</div>
+            <div style="font-size:0.8rem; color:#999;" id="signEn">Joy</div>
+            <div class="sign-poem" id="signPoem">“漫卷诗书喜欲狂”</div>
+            <p id="signDesc" style="font-size:0.9rem;">定义描述...</p>
+            <div class="sign-advice"><strong>💡 今日指引：</strong><br><span id="signAdvice">保持这份喜悦。</span></div>
+            <button class="btn-primary" onclick="drawDailySign()" style="margin-top:15px; font-size:0.9rem; padding:8px 20px;">再抽一签</button>
+        </div>
+    </div>
+
     <!-- 本地脚本 -->
     <script>
         // 动态加载搜索相关脚本
