@@ -259,3 +259,77 @@ window.onclick = function(event) {
     const modal = document.getElementById('dailyModal');
     if (event.target == modal) closeDailySign();
 }
+// === 搜索功能 ===
+function toggleSearch() {
+    const modal = document.getElementById('searchModal');
+    if (!modal) return;
+    
+    if (modal.style.display === 'block') {
+        modal.style.display = 'none';
+    } else {
+        modal.style.display = 'block';
+        const input = document.getElementById('searchInput');
+        if (input) input.focus();
+    }
+}
+
+function closeSearch() {
+    const modal = document.getElementById('searchModal');
+    if (modal) modal.style.display = 'none';
+}
+
+function performSearch() {
+    const query = document.getElementById('searchInput')?.value.trim() || '';
+    if (!query) return;
+    
+    const results = [];
+    const searchLower = query.toLowerCase();
+    
+    emotionData.forEach(category => {
+        category.items.forEach(item => {
+            if (item.name.includes(query) || 
+                item.en.toLowerCase().includes(searchLower) ||
+                item.desc.includes(query)) {
+                results.push({
+                    ...item,
+                    category: category.id,
+                    categoryTitle: category.title
+                });
+            }
+        });
+    });
+    
+    displaySearchResults(results, query);
+}
+
+function displaySearchResults(results, query) {
+    const container = document.getElementById('searchResults');
+    if (!container) return;
+    
+    if (results.length === 0) {
+        container.innerHTML = '<div style="padding:20px; text-align:center;">未找到与"' + query + '"相关的情绪</div>';
+        return;
+    }
+    
+    let html = '';
+    results.forEach(item => {
+        html += '<div class="search-result-item" onclick="scrollToEmotion(\'' + item.name + '\')">';
+        html += '<h4>' + item.name + ' <small>| ' + item.en + '</small></h4>';
+        html += '<p>' + item.desc.substring(0, 50) + '...</p>';
+        html += '</div>';
+    });
+    
+    container.innerHTML = html;
+}
+
+function scrollToEmotion(name) {
+    closeSearch();
+    const cards = document.querySelectorAll('.emotion-card');
+    for (const card of cards) {
+        const title = card.querySelector('h3');
+        if (title && title.textContent.includes(name)) {
+            card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            break;
+        }
+    }
+}
