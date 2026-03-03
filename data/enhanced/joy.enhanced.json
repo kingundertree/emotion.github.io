@@ -1,0 +1,467 @@
+{
+  "id": "joy",
+  "title": "【喜】欢愉与希望",
+  "en": "Joy & Hope",
+  "items": [
+    {
+      "name": "欣喜",
+      "en": "Delight",
+      "desc": "意外的微小快乐",
+      "source": "杜甫《闻官军收河南河北》",
+      "classics": {
+        "honglou": "刘姥姥进大观园",
+        "xiyou": "悟空得知弼马温是个官职",
+        "shuihu": "梁山泊好汉初聚义",
+        "sanguo": "刘备得遇孔明"
+      },
+      "media": {
+        "music": {
+          "id": 139821,
+          "title": "春节序曲",
+          "url": "https://music.163.com/#/song?id=139821"
+        },
+        "video": {
+          "keyword": "活着 家珍归来",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B4%BB%E7%9D%80%20%E5%AE%B6%E7%8F%8D%E5%BD%92%E6%9D%A5"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "短暂",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "狂喜",
+      "en": "Ecstasy",
+      "desc": "极度的、难以自持的快乐",
+      "source": "范进中举",
+      "classics": {
+        "honglou": "宝玉失玉复得",
+        "xiyou": "师徒四人取得真经",
+        "shuihu": "智取生辰纲成功",
+        "sanguo": "曹操大胜袁绍"
+      },
+      "media": {
+        "music": {
+          "id": 139823,
+          "title": "金蛇狂舞",
+          "url": "https://music.163.com/#/song?id=139823"
+        },
+        "video": {
+          "keyword": "范进中举 发疯",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%8C%83%E8%BF%9B%E4%B8%AD%E4%B8%BE%20%E5%8F%91%E7%96%AF"
+        }
+      },
+      "spectrum": {
+        "intensity": 8,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.8,
+          "arousal": 0.8
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "欣慰",
+      "en": "Gratification",
+      "desc": "付出后得到回报的满足",
+      "source": "孔子赞颜回",
+      "classics": {
+        "honglou": "贾政见宝玉作诗",
+        "xiyou": "观音见悟空改邪归正",
+        "shuihu": "宋江见众兄弟归心",
+        "sanguo": "刘备托孤见刘禅"
+      },
+      "media": {
+        "music": {
+          "id": 185643,
+          "title": "父亲写的散文诗 (纯音乐)",
+          "url": "https://music.163.com/#/song?id=185643"
+        },
+        "video": {
+          "keyword": "觉醒年代 陈独秀 微笑",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%20%E9%99%88%E7%8B%AC%E7%A7%80%20%E5%BE%AE%E7%AC%91"
+        }
+      },
+      "spectrum": {
+        "intensity": 3,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "庆幸",
+      "en": "Relief",
+      "desc": "躲过灾祸后的喜悦",
+      "source": "完璧归赵",
+      "classics": {
+        "honglou": "巧姐遇救",
+        "xiyou": "唐僧躲过妖怪第一劫",
+        "shuihu": "林冲风雪山神庙幸存",
+        "sanguo": "赵云长坂坡救阿斗"
+      },
+      "media": {
+        "music": {
+          "id": 139825,
+          "title": "十面埋伏 (凯歌段落)",
+          "url": "https://music.163.com/#/song?id=139825"
+        },
+        "video": {
+          "keyword": "流浪地球 救援成功",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%20%E6%95%91%E6%8F%B4%E6%88%90%E5%8A%9F"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "自豪",
+      "en": "Pride",
+      "desc": "因成就而产生的光荣感",
+      "source": "霍去病封狼居胥",
+      "classics": {
+        "honglou": "元春省亲",
+        "xiyou": "悟空大闹天宫自称齐天大圣",
+        "shuihu": "武松打虎后受赏",
+        "sanguo": "关羽水淹七军"
+      },
+      "media": {
+        "music": {
+          "id": 139827,
+          "title": "精忠报国 (纯音乐)",
+          "url": "https://music.163.com/#/song?id=139827"
+        },
+        "video": {
+          "keyword": "战狼2 举旗",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%88%98%E7%8B%BC2%20%E4%B8%BE%E6%97%97"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "陶醉",
+      "en": "Enchantment",
+      "desc": "沉浸于美好境界的忘我之乐",
+      "source": "王羲之《兰亭集序》",
+      "classics": {
+        "honglou": "湘云醉卧芍药裀",
+        "xiyou": "八戒在高老庄",
+        "shuihu": "鲁智深倒拔垂杨柳后饮酒",
+        "sanguo": "曹操横槊赋诗"
+      },
+      "media": {
+        "music": {
+          "id": 139829,
+          "title": "高山流水 (古琴)",
+          "url": "https://music.163.com/#/song?id=139829"
+        },
+        "video": {
+          "keyword": "赤壁 横槊赋诗",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B5%A4%E5%A3%81%20%E6%A8%AA%E6%A7%8A%E8%B5%8B%E8%AF%97"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "雀跃",
+      "en": "Exuberance",
+      "desc": "活泼外放的兴奋",
+      "source": "《诗经·子衿》",
+      "classics": {
+        "honglou": "宝钗扑蝶",
+        "xiyou": "悟空学成归来",
+        "shuihu": "李逵初见宋江",
+        "sanguo": "曹植七步成诗前"
+      },
+      "media": {
+        "music": {
+          "id": 139831,
+          "title": "赛马 (二胡)",
+          "url": "https://music.163.com/#/song?id=139831"
+        },
+        "video": {
+          "keyword": "仙剑奇侠传 灵儿跳跃",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0%20%E7%81%B5%E5%84%BF%E8%B7%B3%E8%B7%83"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "知足",
+      "en": "Contentment",
+      "desc": "内心平静、无欲则安",
+      "source": "陶渊明《归去来兮辞》",
+      "classics": {
+        "honglou": "李纨守寡",
+        "xiyou": "沙僧流沙河悟道",
+        "shuihu": "公孙胜修道",
+        "sanguo": "诸葛亮躬耕南阳"
+      },
+      "media": {
+        "music": {
+          "id": 139833,
+          "title": "平沙落雁 (古琴)",
+          "url": "https://music.163.com/#/song?id=139833"
+        },
+        "video": {
+          "keyword": "舌尖上的中国 丰收",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%88%8C%E5%B0%96%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%20%E4%B8%B0%E6%94%B6"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "期待",
+      "en": "Anticipation",
+      "desc": "对未来美好事物的向往",
+      "source": "陆游《游山西村》",
+      "classics": {
+        "honglou": "黛玉进府",
+        "xiyou": "唐僧出发取经",
+        "shuihu": "林冲发配前盼回家",
+        "sanguo": "三顾茅庐"
+      },
+      "media": {
+        "music": {
+          "id": 139835,
+          "title": "英雄的黎明",
+          "url": "https://music.163.com/#/song?id=139835"
+        },
+        "video": {
+          "keyword": "阿甘正传 奔跑",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E9%98%BF%E7%94%98%E6%AD%A3%E4%BC%A0%20%E5%A5%94%E8%B7%91"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.8,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "释然",
+      "en": "Liberation",
+      "desc": "放下包袱后的轻松愉悦",
+      "source": "苏轼《定风波》",
+      "classics": {
+        "honglou": "宝玉出家",
+        "xiyou": "悟空成佛",
+        "shuihu": "燕青隐退",
+        "sanguo": "姜维最后一搏"
+      },
+      "media": {
+        "music": {
+          "id": 139837,
+          "title": "沧海一声笑 (古筝版)",
+          "url": "https://music.163.com/#/song?id=139837"
+        },
+        "video": {
+          "keyword": "英雄 无名放弃刺杀",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%20%E6%97%A0%E5%90%8D%E6%94%BE%E5%BC%83%E5%88%BA%E6%9D%80"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "+",
+        "duration": "持久",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "joy",
+        "dimension": {
+          "valence": 0.8,
+          "arousal": 0.3
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "id": "sorrow",
+  "title": "【哀】悲痛与失落",
+  "en": "Sorrow & Grief",
+  "items": [
+    {
+      "name": "悲伤",
+      "en": "Sadness",
+      "desc": "基础的难过情绪",
+      "source": "孔子获麟",
+      "classics": {
+        "honglou": "黛玉葬花",
+        "xiyou": "唐僧思念母亲",
+        "shuihu": "林冲娘子自缢",
+        "sanguo": "徐庶别母"
+      },
+      "media": {
+        "music": {
+          "id": 139859,
+          "title": "琵琶语",
+          "url": "https://music.163.com/#/song?id=139859"
+        },
+        "video": {
+          "keyword": "一个陌生女人的来信",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E9%99%8C%E7%94%9F%E5%A5%B3%E4%BA%BA%E7%9A%84%E6%9D%A5%E4%BF%A1"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "sadness",
+        "dimension": {
+          "valence": -0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "悲痛",
+      "en": "Grief",
+      "desc": "撕心裂肺的痛苦",
+      "source": "霸王别姬",
+      "classics": {
+        "honglou": "贾母哭黛玉",
+        "xiyou": "悟空哭唐僧",
+        "shuihu": "宋江哭晁盖",
+        "sanguo": "曹操哭典韦"
+      },
+      "media": {
+        "music": {
+          "id": 139861,
+          "title": "殇 (大提琴)",
+          "url": "https://music.163.com/#/song?id=139861"
+        },
+        "video": {
+          "keyword": "霸王别姬 程蝶衣自刎",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E9%9C%B8%E7%8E%8B%E5%88%AB%E5%A7%AC%20%E7%A8%8B%E8%9D%B6%E8%A1%A3%E8%87%AA%E5%88%8E"
+        }
+      },
+      "spectrum": {
+        "intensity": 8,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "sadness",
+        "dimension": {
+          "valence": -0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "哀愁",
+      "en": "Melancholy",
+      "desc": "淡淡的、持续的忧伤",
+      "source": "李煜《虞美人》",
+      "classics": {
+        "honglou": "秋窗风雨夕",
+        "xiyou": "女儿国国王送别",
+        "shuihu": "宋江浔阳楼题诗",
+        "sanguo": "曹植洛神赋"
+      },
+      "media": {
+        "music": {
+          "id": 139863,
+          "title": "乱红 (箫与钢琴)",
+          "url": "https://music.163.com/#/song?id=139863"
+        },
+        "video": {
+          "keyword": "87版红楼梦 黛玉葬花",
+          "searchUrl": "https://search.bilibili.com/all?keyword=87%E7%89%88%E7%BA%A2%E6%A5%BC%E6%A2%A6%20%E9%BB%9B%E7%8E%89%E8%91%AC%E8%8A%B1"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "持久",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "sadness",
+        "dimension": {
+          "valence": -0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "绝望",
+      "en": "Despair",
+      "desc": "彻底失去希望的死寂",
+      "source": "屈原投江",
+      "classics": {
+        "honglou": "司棋殉情",
+        "xiyou": "唐僧被困无底洞",
+        "shuihu": "杨志卖刀无路",
+        "sanguo": "马谡失街亭"
+      },
+      "media": {
+        "music": {
+          "id": 139865,
+          "title": "英雄 (虚无)",
+          "url": "https://music.163.com/#/song?id=139865"
+        },
+        "video": {
+          "keyword": "东邪西毒 欧阳锋独白",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E4%B8%9C%E9%82%AA%E8%A5%BF%E6%AF%92%20%E6%AC%A7%E9%98%B3%E9%94%8B%E7%8B%AC%E7%99%BD"
+        }
+      },
+      "spectrum": {
+        "intensity": 8,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "sadness",
+        "dimension": {
+          "valence": -0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "惋惜",
+      "en": "Regret",
+      "desc": "对美好消逝的遗憾",
+      "source": "诸葛亮病逝",
+      "classics": {
+        "honglou": "众姐妹叹落花",
+        "xiyou": "悟空惜紧箍咒",
+        "shuihu": "吴用惜宋江",
+        "sanguo": "刘备惜庞统"
+      },
+      "media": {
+        "music": {
+          "id": 139867,
+          "title": "忆故人 (古琴)",
+          "url": "https://music.163.com/#/song?id=139867"
+        },
+        "video": {
+          "keyword": "三国演义 卧龙吟",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%20%E5%8D%A7%E9%BE%99%E5%90%9F"
+        }
+      },
+      "spectrum": {
+        "intensity": 3,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "sadness",
+        "dimension": {
+          "valence": -0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "孤寂",
+      "en": "Loneliness",
+      "desc": "无人理解的凄凉",
+      "source": "柳宗元《江雪》",
+      "classics": {
+        "honglou": "宝玉淋雨",
+        "xiyou": "悟空被逐回花果山",
+        "shuihu": "林冲草料场独饮",
+        "sanguo": "姜维死后蜀亡"
+      },
+      "media": {
+        "music": {
+          "id": 139869,
+          "title": "鸿雁 (呼斯楞)",
+          "url": "https://music.163.com/#/song?id=139869"
+        },
+        "video": {
+          "keyword": "刺客聂隐娘 山水空镜",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E5%88%BA%E5%AE%A2%E8%81%82%E9%9A%90%E5%A8%98%20%E5%B1%B1%E6%B0%B4%E7%A9%BA%E9%95%9C"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "持久",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "sadness",
+        "dimension": {
+          "valence": -0.7,
+          "arousal": 0.3
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "凄楚",
+      "en": "Distress",
+      "desc": "悲惨且令人心酸",
+      "source": "杜甫《石壕吏》",
+      "classics": {
+        "honglou": "香菱学诗",
+        "xiyou": "比丘国小孩受苦",
+        "shuihu": "金翠莲啼哭",
+        "sanguo": "百姓流离"
+      },
+      "media": {
+        "music": {
+          "id": 139871,
+          "title": "江河水 (二胡)",
+          "url": "https://music.163.com/#/song?id=139871"
+        },
+        "video": {
+          "keyword": "活着 家珍背有庆",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B4%BB%E7%9D%80%20%E5%AE%B6%E7%8F%8D%E8%83%8C%E6%9C%89%E5%BA%86"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "sadness",
+        "dimension": {
+          "valence": -0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "缅怀",
+      "en": "Mourning",
+      "desc": "对逝者的追忆",
+      "source": "苏轼《江城子》",
+      "classics": {
+        "honglou": "宝玉祭晴雯",
+        "xiyou": "唐僧祭父母",
+        "shuihu": "梁山祭晁盖",
+        "sanguo": "孔明祭先主"
+      },
+      "media": {
+        "music": {
+          "id": 139873,
+          "title": "送别 (合唱)",
+          "url": "https://music.163.com/#/song?id=139873"
+        },
+        "video": {
+          "keyword": "觉醒年代 延年乔年回眸",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%20%E5%BB%B6%E5%B9%B4%E4%B9%94%E5%B9%B4%E5%9B%9E%E7%9C%B8"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "sadness",
+        "dimension": {
+          "valence": -0.7,
+          "arousal": 0.3
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "幻灭",
+      "en": "Disillusionment",
+      "desc": "理想破灭后的空虚",
+      "source": "贾府被抄",
+      "classics": {
+        "honglou": "万境归空",
+        "xiyou": "见如来前众生相",
+        "shuihu": "招安后兄弟凋零",
+        "sanguo": "三国归晋"
+      },
+      "media": {
+        "music": {
+          "id": 139875,
+          "title": "苍 (谭盾)",
+          "url": "https://music.163.com/#/song?id=139875"
+        },
+        "video": {
+          "keyword": "英雄 万箭穿心",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%20%E4%B8%87%E7%AE%AD%E7%A9%BF%E5%BF%83"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "sadness",
+        "dimension": {
+          "valence": -0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    },
+    {
+      "name": "苍凉",
+      "en": "Desolation",
+      "desc": "面对天地的宏大悲哀",
+      "source": "陈子昂《登幽州台》",
+      "classics": {
+        "honglou": "白茫茫大地",
+        "xiyou": "取经路漫漫",
+        "shuihu": "蓼儿洼荒凉",
+        "sanguo": "滚滚长江东逝水"
+      },
+      "media": {
+        "music": {
+          "id": 139877,
+          "title": "天地苍茫 (汉武大帝)",
+          "url": "https://music.163.com/#/song?id=139877"
+        },
+        "video": {
+          "keyword": "汉武大帝 晚年巡视",
+          "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B1%89%E6%AD%A6%E5%A4%A7%E5%B8%9D%20%E6%99%9A%E5%B9%B4%E5%B7%A1%E8%A7%86"
+        }
+      },
+      "spectrum": {
+        "intensity": 5,
+        "polarity": "-",
+        "duration": "中等",
+        "trigger": ""
+      },
+      "psychology": {
+        "ekman": "sadness",
+        "dimension": {
+          "valence": -0.7,
+          "arousal": 0.5
+        }
+      },
+      "relations": {
+        "similar": [],
+        "opposite": [],
+        "oftenWith": []
+      },
+      "modernScenarios": [],
+      "coping": {
+        "enhance": "",
+        "balance": ""
+      }
+    }
+  ]
+}

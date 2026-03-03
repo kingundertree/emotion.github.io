@@ -1,0 +1,1942 @@
+{
+  "honglou": {
+    "name": "红楼梦",
+    "emotions": [
+      {
+        "name": "欣喜",
+        "en": "Delight",
+        "scene": "刘姥姥进大观园",
+        "categoryId": "joy"
+      },
+      {
+        "name": "狂喜",
+        "en": "Ecstasy",
+        "scene": "宝玉失玉复得",
+        "categoryId": "joy"
+      },
+      {
+        "name": "欣慰",
+        "en": "Gratification",
+        "scene": "贾政见宝玉作诗",
+        "categoryId": "joy"
+      },
+      {
+        "name": "庆幸",
+        "en": "Relief",
+        "scene": "巧姐遇救",
+        "categoryId": "joy"
+      },
+      {
+        "name": "自豪",
+        "en": "Pride",
+        "scene": "元春省亲",
+        "categoryId": "joy"
+      },
+      {
+        "name": "陶醉",
+        "en": "Enchantment",
+        "scene": "湘云醉卧芍药裀",
+        "categoryId": "joy"
+      },
+      {
+        "name": "雀跃",
+        "en": "Exuberance",
+        "scene": "宝钗扑蝶",
+        "categoryId": "joy"
+      },
+      {
+        "name": "知足",
+        "en": "Contentment",
+        "scene": "李纨守寡",
+        "categoryId": "joy"
+      },
+      {
+        "name": "期待",
+        "en": "Anticipation",
+        "scene": "黛玉进府",
+        "categoryId": "joy"
+      },
+      {
+        "name": "释然",
+        "en": "Liberation",
+        "scene": "宝玉出家",
+        "categoryId": "joy"
+      },
+      {
+        "name": "愤怒",
+        "en": "Anger",
+        "scene": "宝玉踢袭人",
+        "categoryId": "anger"
+      },
+      {
+        "name": "暴怒",
+        "en": "Rage",
+        "scene": "贾政毒打宝玉",
+        "categoryId": "anger"
+      },
+      {
+        "name": "愤慨",
+        "en": "Indignation",
+        "scene": "晴雯被逐",
+        "categoryId": "anger"
+      },
+      {
+        "name": "恼火",
+        "en": "Annoyance",
+        "scene": "黛玉恼周瑞家的",
+        "categoryId": "anger"
+      },
+      {
+        "name": "嫉恨",
+        "en": "Jealous Rage",
+        "scene": "赵姨娘害宝玉",
+        "categoryId": "anger"
+      },
+      {
+        "name": "震怒",
+        "en": "Fury",
+        "scene": "贾母震怒",
+        "categoryId": "anger"
+      },
+      {
+        "name": "悲愤",
+        "en": "Grief-anger",
+        "scene": "黛玉焚稿",
+        "categoryId": "anger"
+      },
+      {
+        "name": "愠怒",
+        "en": "Resentment",
+        "scene": "探春对赵姨娘",
+        "categoryId": "anger"
+      },
+      {
+        "name": "狂躁",
+        "en": "Irritation",
+        "scene": "夏金桂撒泼",
+        "categoryId": "anger"
+      },
+      {
+        "name": "决绝之怒",
+        "en": "Righteous Wrath",
+        "scene": "鸳鸯抗婚",
+        "categoryId": "anger"
+      },
+      {
+        "name": "悲伤",
+        "en": "Sadness",
+        "scene": "黛玉葬花",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "悲痛",
+        "en": "Grief",
+        "scene": "贾母哭黛玉",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "哀愁",
+        "en": "Melancholy",
+        "scene": "秋窗风雨夕",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "绝望",
+        "en": "Despair",
+        "scene": "司棋殉情",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "惋惜",
+        "en": "Regret",
+        "scene": "众姐妹叹落花",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "孤寂",
+        "en": "Loneliness",
+        "scene": "宝玉淋雨",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "凄楚",
+        "en": "Distress",
+        "scene": "香菱学诗",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "缅怀",
+        "en": "Mourning",
+        "scene": "宝玉祭晴雯",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "幻灭",
+        "en": "Disillusionment",
+        "scene": "万境归空",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "苍凉",
+        "en": "Desolation",
+        "scene": "白茫茫大地",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "愉悦",
+        "en": "Pleasure",
+        "scene": "芦雪庵联诗",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "诙谐",
+        "en": "Amusement",
+        "scene": "刘姥姥逗笑",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "惬意",
+        "en": "Coziness",
+        "scene": "宝玉酣睡",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "调侃",
+        "en": "Playfulness",
+        "scene": "黛玉调侃宝钗",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "逍遥",
+        "en": "Carefree",
+        "scene": "柳湘莲",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "窃喜",
+        "en": "Smugness",
+        "scene": "小红攀高枝",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "恬淡",
+        "en": "Tranquility",
+        "scene": "宝琴折梅",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "惊喜",
+        "en": "Surprise-Joy",
+        "scene": "宝玉收帖",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "自嘲",
+        "en": "Self-mockery",
+        "scene": "宝玉自称浊玉",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "会心",
+        "en": "Understanding Smile",
+        "scene": "宝黛共读",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "恐惧",
+        "en": "Fear",
+        "scene": "贾瑞照镜",
+        "categoryId": "fear"
+      },
+      {
+        "name": "惊恐",
+        "en": "Terror",
+        "scene": "抄检大观园",
+        "categoryId": "fear"
+      },
+      {
+        "name": "畏惧",
+        "en": "Dread",
+        "scene": "怕王夫人",
+        "categoryId": "fear"
+      },
+      {
+        "name": "惊慌",
+        "en": "Panic",
+        "scene": "贾府被抄",
+        "categoryId": "fear"
+      },
+      {
+        "name": "疑惧",
+        "en": "Apprehension",
+        "scene": "黛玉忧心",
+        "categoryId": "fear"
+      },
+      {
+        "name": "战栗",
+        "en": "Trembling",
+        "scene": "金荣跪地",
+        "categoryId": "fear"
+      },
+      {
+        "name": "敬畏",
+        "en": "Awe",
+        "scene": "祭宗祠",
+        "categoryId": "fear"
+      },
+      {
+        "name": "心悸",
+        "en": "Horror",
+        "scene": "秦可卿托梦",
+        "categoryId": "fear"
+      },
+      {
+        "name": "怯懦",
+        "en": "Cowardice",
+        "scene": "迎春懦弱",
+        "categoryId": "fear"
+      },
+      {
+        "name": "梦魇",
+        "en": "Nightmare",
+        "scene": "赵姨娘中魔",
+        "categoryId": "fear"
+      },
+      {
+        "name": "慈爱",
+        "en": "Compassion",
+        "scene": "贾母爱宝玉",
+        "categoryId": "love"
+      },
+      {
+        "name": "热恋",
+        "en": "Passion",
+        "scene": "宝黛互诉",
+        "categoryId": "love"
+      },
+      {
+        "name": "依恋",
+        "en": "Attachment",
+        "scene": "紫鹃试忙",
+        "categoryId": "love"
+      },
+      {
+        "name": "倾慕",
+        "en": "Adoration",
+        "scene": "香菱慕黛玉",
+        "categoryId": "love"
+      },
+      {
+        "name": "怜惜",
+        "en": "Tenderness",
+        "scene": "宝玉替平儿理妆",
+        "categoryId": "love"
+      },
+      {
+        "name": "挚爱",
+        "en": "Devotion",
+        "scene": "黛玉还泪",
+        "categoryId": "love"
+      },
+      {
+        "name": "友爱",
+        "en": "Friendship",
+        "scene": "湘云宝钗",
+        "categoryId": "love"
+      },
+      {
+        "name": "博爱",
+        "en": "Universal Love",
+        "scene": "宝玉有情",
+        "categoryId": "love"
+      },
+      {
+        "name": "相思",
+        "en": "Longing",
+        "scene": "红豆曲",
+        "categoryId": "love"
+      },
+      {
+        "name": "守护",
+        "en": "Protectiveness",
+        "scene": "小红照顾",
+        "categoryId": "love"
+      },
+      {
+        "name": "厌恶",
+        "en": "Disgust",
+        "scene": "妙玉嫌刘姥姥",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "鄙夷",
+        "en": "Contempt",
+        "scene": "黛玉鄙夷仕途",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "憎恨",
+        "en": "Hatred",
+        "scene": "贾环恨宝玉",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "嫌弃",
+        "en": "Revulsion",
+        "scene": "王夫人嫌晴雯",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "愤懑",
+        "en": "Abhorrence",
+        "scene": "尤三姐控诉",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "轻蔑",
+        "en": "Scorn",
+        "scene": "凤姐轻蔑贾瑞",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "作呕",
+        "en": "Nausea",
+        "scene": "贾赦强娶",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "唾弃",
+        "en": "Spurning",
+        "scene": "众人唾弃贾雨村",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "忌惮",
+        "en": "Loathing with Fear",
+        "scene": "凤姐忌惮尤二姐",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "寒心",
+        "en": "Chill",
+        "scene": "宝玉寒心",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "惊讶",
+        "en": "Surprise",
+        "scene": "刘姥姥见玻璃",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "震惊",
+        "en": "Shock",
+        "scene": "宝玉听说黛玉回苏",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "错愕",
+        "en": "Bewilderment",
+        "scene": "贾政听诗",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "骇然",
+        "en": "Alarm",
+        "scene": "秦可卿死",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "惊叹",
+        "en": "Wonder",
+        "scene": "叹宝琴",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "恍悟",
+        "en": "Realization",
+        "scene": "宝玉悟禅",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "呆滞",
+        "en": "Stunned",
+        "scene": "黛玉呆傻",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "诧异",
+        "en": "Curiosity-Surprise",
+        "scene": "宝钗诧异",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "惊魂",
+        "en": "Frightened Surprise",
+        "scene": "宝玉被打后",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "颠覆",
+        "en": "Paradigm Shift",
+        "scene": "贾府被抄",
+        "categoryId": "surprise"
+      }
+    ]
+  },
+  "xiyou": {
+    "name": "西游记",
+    "emotions": [
+      {
+        "name": "欣喜",
+        "en": "Delight",
+        "scene": "悟空得知弼马温是个官职",
+        "categoryId": "joy"
+      },
+      {
+        "name": "狂喜",
+        "en": "Ecstasy",
+        "scene": "师徒四人取得真经",
+        "categoryId": "joy"
+      },
+      {
+        "name": "欣慰",
+        "en": "Gratification",
+        "scene": "观音见悟空改邪归正",
+        "categoryId": "joy"
+      },
+      {
+        "name": "庆幸",
+        "en": "Relief",
+        "scene": "唐僧躲过妖怪第一劫",
+        "categoryId": "joy"
+      },
+      {
+        "name": "自豪",
+        "en": "Pride",
+        "scene": "悟空大闹天宫自称齐天大圣",
+        "categoryId": "joy"
+      },
+      {
+        "name": "陶醉",
+        "en": "Enchantment",
+        "scene": "八戒在高老庄",
+        "categoryId": "joy"
+      },
+      {
+        "name": "雀跃",
+        "en": "Exuberance",
+        "scene": "悟空学成归来",
+        "categoryId": "joy"
+      },
+      {
+        "name": "知足",
+        "en": "Contentment",
+        "scene": "沙僧流沙河悟道",
+        "categoryId": "joy"
+      },
+      {
+        "name": "期待",
+        "en": "Anticipation",
+        "scene": "唐僧出发取经",
+        "categoryId": "joy"
+      },
+      {
+        "name": "释然",
+        "en": "Liberation",
+        "scene": "悟空成佛",
+        "categoryId": "joy"
+      },
+      {
+        "name": "愤怒",
+        "en": "Anger",
+        "scene": "悟空三打白骨精被误解",
+        "categoryId": "anger"
+      },
+      {
+        "name": "暴怒",
+        "en": "Rage",
+        "scene": "悟空推倒人参果树",
+        "categoryId": "anger"
+      },
+      {
+        "name": "愤慨",
+        "en": "Indignation",
+        "scene": "悟空怒斥神仙纵奴",
+        "categoryId": "anger"
+      },
+      {
+        "name": "恼火",
+        "en": "Annoyance",
+        "scene": "唐僧恼悟空杀人",
+        "categoryId": "anger"
+      },
+      {
+        "name": "嫉恨",
+        "en": "Jealous Rage",
+        "scene": "六耳猕猴嫉恨悟空",
+        "categoryId": "anger"
+      },
+      {
+        "name": "震怒",
+        "en": "Fury",
+        "scene": "玉帝怒派天兵",
+        "categoryId": "anger"
+      },
+      {
+        "name": "悲愤",
+        "en": "Grief-anger",
+        "scene": "悟空见师父被抓",
+        "categoryId": "anger"
+      },
+      {
+        "name": "愠怒",
+        "en": "Resentment",
+        "scene": "白龙马忍辱负重",
+        "categoryId": "anger"
+      },
+      {
+        "name": "狂躁",
+        "en": "Irritation",
+        "scene": "八戒嚷嚷分行李",
+        "categoryId": "anger"
+      },
+      {
+        "name": "决绝之怒",
+        "en": "Righteous Wrath",
+        "scene": "悟空誓死护师",
+        "categoryId": "anger"
+      },
+      {
+        "name": "悲伤",
+        "en": "Sadness",
+        "scene": "唐僧思念母亲",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "悲痛",
+        "en": "Grief",
+        "scene": "悟空哭唐僧",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "哀愁",
+        "en": "Melancholy",
+        "scene": "女儿国国王送别",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "绝望",
+        "en": "Despair",
+        "scene": "唐僧被困无底洞",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "惋惜",
+        "en": "Regret",
+        "scene": "悟空惜紧箍咒",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "孤寂",
+        "en": "Loneliness",
+        "scene": "悟空被逐回花果山",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "凄楚",
+        "en": "Distress",
+        "scene": "比丘国小孩受苦",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "缅怀",
+        "en": "Mourning",
+        "scene": "唐僧祭父母",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "幻灭",
+        "en": "Disillusionment",
+        "scene": "见如来前众生相",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "苍凉",
+        "en": "Desolation",
+        "scene": "取经路漫漫",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "愉悦",
+        "en": "Pleasure",
+        "scene": "蟠桃会",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "诙谐",
+        "en": "Amusement",
+        "scene": "八戒逗悟空",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "惬意",
+        "en": "Coziness",
+        "scene": "悟空花果山称王",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "调侃",
+        "en": "Playfulness",
+        "scene": "悟空调侃八戒",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "逍遥",
+        "en": "Carefree",
+        "scene": "云游四海",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "窃喜",
+        "en": "Smugness",
+        "scene": "悟空偷丹",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "恬淡",
+        "en": "Tranquility",
+        "scene": "镇元大仙",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "惊喜",
+        "en": "Surprise-Joy",
+        "scene": "得救兵",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "自嘲",
+        "en": "Self-mockery",
+        "scene": "八戒说自己笨",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "会心",
+        "en": "Understanding Smile",
+        "scene": "悟空气息相通",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "恐惧",
+        "en": "Fear",
+        "scene": "唐僧怕妖",
+        "categoryId": "fear"
+      },
+      {
+        "name": "惊恐",
+        "en": "Terror",
+        "scene": "见真身",
+        "categoryId": "fear"
+      },
+      {
+        "name": "畏惧",
+        "en": "Dread",
+        "scene": "怕观音",
+        "categoryId": "fear"
+      },
+      {
+        "name": "惊慌",
+        "en": "Panic",
+        "scene": "小妖乱窜",
+        "categoryId": "fear"
+      },
+      {
+        "name": "疑惧",
+        "en": "Apprehension",
+        "scene": "真假悟空",
+        "categoryId": "fear"
+      },
+      {
+        "name": "战栗",
+        "en": "Trembling",
+        "scene": "小妖见大圣",
+        "categoryId": "fear"
+      },
+      {
+        "name": "敬畏",
+        "en": "Awe",
+        "scene": "见如来",
+        "categoryId": "fear"
+      },
+      {
+        "name": "心悸",
+        "en": "Horror",
+        "scene": "地狱景象",
+        "categoryId": "fear"
+      },
+      {
+        "name": "怯懦",
+        "en": "Cowardice",
+        "scene": "八戒退缩",
+        "categoryId": "fear"
+      },
+      {
+        "name": "梦魇",
+        "en": "Nightmare",
+        "scene": "唐僧噩梦",
+        "categoryId": "fear"
+      },
+      {
+        "name": "慈爱",
+        "en": "Compassion",
+        "scene": "观音爱悟空",
+        "categoryId": "love"
+      },
+      {
+        "name": "热恋",
+        "en": "Passion",
+        "scene": "女儿国情",
+        "categoryId": "love"
+      },
+      {
+        "name": "依恋",
+        "en": "Attachment",
+        "scene": "白马恋主",
+        "categoryId": "love"
+      },
+      {
+        "name": "倾慕",
+        "en": "Adoration",
+        "scene": "国王慕唐僧",
+        "categoryId": "love"
+      },
+      {
+        "name": "怜惜",
+        "en": "Tenderness",
+        "scene": "悟空救小孩",
+        "categoryId": "love"
+      },
+      {
+        "name": "挚爱",
+        "en": "Devotion",
+        "scene": "唐僧取经",
+        "categoryId": "love"
+      },
+      {
+        "name": "友爱",
+        "en": "Friendship",
+        "scene": "师兄弟",
+        "categoryId": "love"
+      },
+      {
+        "name": "博爱",
+        "en": "Universal Love",
+        "scene": "普度众生",
+        "categoryId": "love"
+      },
+      {
+        "name": "相思",
+        "en": "Longing",
+        "scene": "女王夜思",
+        "categoryId": "love"
+      },
+      {
+        "name": "守护",
+        "en": "Protectiveness",
+        "scene": "悟空护师",
+        "categoryId": "love"
+      },
+      {
+        "name": "厌恶",
+        "en": "Disgust",
+        "scene": "悟空嫌脏",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "鄙夷",
+        "en": "Contempt",
+        "scene": "神仙嫌凡夫",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "憎恨",
+        "en": "Hatred",
+        "scene": "妖魔恨行者",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "嫌弃",
+        "en": "Revulsion",
+        "scene": "八戒嫌累",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "愤懑",
+        "en": "Abhorrence",
+        "scene": "车迟国恨道",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "轻蔑",
+        "en": "Scorn",
+        "scene": "大圣轻蔑天兵",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "作呕",
+        "en": "Nausea",
+        "scene": "见妖怪吃人",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "唾弃",
+        "en": "Spurning",
+        "scene": "百姓唾弃妖道",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "忌惮",
+        "en": "Loathing with Fear",
+        "scene": "妖怪忌惮悟空",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "寒心",
+        "en": "Chill",
+        "scene": "悟空寒心被逐",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "惊讶",
+        "en": "Surprise",
+        "scene": "见变化",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "震惊",
+        "en": "Shock",
+        "scene": "见真佛",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "错愕",
+        "en": "Bewilderment",
+        "scene": "悟空被识破",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "骇然",
+        "en": "Alarm",
+        "scene": "见骷髅",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "惊叹",
+        "en": "Wonder",
+        "scene": "叹神通",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "恍悟",
+        "en": "Realization",
+        "scene": "悟空悟道",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "呆滞",
+        "en": "Stunned",
+        "scene": "唐僧呆坐",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "诧异",
+        "en": "Curiosity-Surprise",
+        "scene": "八戒诧异",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "惊魂",
+        "en": "Frightened Surprise",
+        "scene": "唐僧脱险后",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "颠覆",
+        "en": "Paradigm Shift",
+        "scene": "见灵山",
+        "categoryId": "surprise"
+      }
+    ]
+  },
+  "shuihu": {
+    "name": "水浒传",
+    "emotions": [
+      {
+        "name": "欣喜",
+        "en": "Delight",
+        "scene": "梁山泊好汉初聚义",
+        "categoryId": "joy"
+      },
+      {
+        "name": "狂喜",
+        "en": "Ecstasy",
+        "scene": "智取生辰纲成功",
+        "categoryId": "joy"
+      },
+      {
+        "name": "欣慰",
+        "en": "Gratification",
+        "scene": "宋江见众兄弟归心",
+        "categoryId": "joy"
+      },
+      {
+        "name": "庆幸",
+        "en": "Relief",
+        "scene": "林冲风雪山神庙幸存",
+        "categoryId": "joy"
+      },
+      {
+        "name": "自豪",
+        "en": "Pride",
+        "scene": "武松打虎后受赏",
+        "categoryId": "joy"
+      },
+      {
+        "name": "陶醉",
+        "en": "Enchantment",
+        "scene": "鲁智深倒拔垂杨柳后饮酒",
+        "categoryId": "joy"
+      },
+      {
+        "name": "雀跃",
+        "en": "Exuberance",
+        "scene": "李逵初见宋江",
+        "categoryId": "joy"
+      },
+      {
+        "name": "知足",
+        "en": "Contentment",
+        "scene": "公孙胜修道",
+        "categoryId": "joy"
+      },
+      {
+        "name": "期待",
+        "en": "Anticipation",
+        "scene": "林冲发配前盼回家",
+        "categoryId": "joy"
+      },
+      {
+        "name": "释然",
+        "en": "Liberation",
+        "scene": "燕青隐退",
+        "categoryId": "joy"
+      },
+      {
+        "name": "愤怒",
+        "en": "Anger",
+        "scene": "鲁提辖拳打镇关西",
+        "categoryId": "anger"
+      },
+      {
+        "name": "暴怒",
+        "en": "Rage",
+        "scene": "李逵沂岭杀四虎",
+        "categoryId": "anger"
+      },
+      {
+        "name": "愤慨",
+        "en": "Indignation",
+        "scene": "林冲火并王伦",
+        "categoryId": "anger"
+      },
+      {
+        "name": "恼火",
+        "en": "Annoyance",
+        "scene": "杨志恼卖刀牛二",
+        "categoryId": "anger"
+      },
+      {
+        "name": "嫉恨",
+        "en": "Jealous Rage",
+        "scene": "王伦嫉恨林冲",
+        "categoryId": "anger"
+      },
+      {
+        "name": "震怒",
+        "en": "Fury",
+        "scene": "高俅怒逼王进",
+        "categoryId": "anger"
+      },
+      {
+        "name": "悲愤",
+        "en": "Grief-anger",
+        "scene": "林冲雪夜上梁山",
+        "categoryId": "anger"
+      },
+      {
+        "name": "愠怒",
+        "en": "Resentment",
+        "scene": "杨志失陷生辰纲",
+        "categoryId": "anger"
+      },
+      {
+        "name": "狂躁",
+        "en": "Irritation",
+        "scene": "阎婆惜要挟宋江",
+        "categoryId": "anger"
+      },
+      {
+        "name": "决绝之怒",
+        "en": "Righteous Wrath",
+        "scene": "阮氏三雄劫生辰纲",
+        "categoryId": "anger"
+      },
+      {
+        "name": "悲伤",
+        "en": "Sadness",
+        "scene": "林冲娘子自缢",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "悲痛",
+        "en": "Grief",
+        "scene": "宋江哭晁盖",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "哀愁",
+        "en": "Melancholy",
+        "scene": "宋江浔阳楼题诗",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "绝望",
+        "en": "Despair",
+        "scene": "杨志卖刀无路",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "惋惜",
+        "en": "Regret",
+        "scene": "吴用惜宋江",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "孤寂",
+        "en": "Loneliness",
+        "scene": "林冲草料场独饮",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "凄楚",
+        "en": "Distress",
+        "scene": "金翠莲啼哭",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "缅怀",
+        "en": "Mourning",
+        "scene": "梁山祭晁盖",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "幻灭",
+        "en": "Disillusionment",
+        "scene": "招安后兄弟凋零",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "苍凉",
+        "en": "Desolation",
+        "scene": "蓼儿洼荒凉",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "愉悦",
+        "en": "Pleasure",
+        "scene": "梁山泊大碗喝酒",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "诙谐",
+        "en": "Amusement",
+        "scene": "王定六说笑",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "惬意",
+        "en": "Coziness",
+        "scene": "阮小七捕鱼",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "调侃",
+        "en": "Playfulness",
+        "scene": "燕青调侃李师师",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "逍遥",
+        "en": "Carefree",
+        "scene": "公孙胜",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "窃喜",
+        "en": "Smugness",
+        "scene": "时迁偷鸡",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "恬淡",
+        "en": "Tranquility",
+        "scene": "罗真人",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "惊喜",
+        "en": "Surprise-Joy",
+        "scene": "逢好汉",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "自嘲",
+        "en": "Self-mockery",
+        "scene": "宋江自称罪人",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "会心",
+        "en": "Understanding Smile",
+        "scene": "兄弟眼神",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "恐惧",
+        "en": "Fear",
+        "scene": "百姓怕官",
+        "categoryId": "fear"
+      },
+      {
+        "name": "惊恐",
+        "en": "Terror",
+        "scene": "见鬼怪",
+        "categoryId": "fear"
+      },
+      {
+        "name": "畏惧",
+        "en": "Dread",
+        "scene": "怕宋江",
+        "categoryId": "fear"
+      },
+      {
+        "name": "惊慌",
+        "en": "Panic",
+        "scene": "官兵溃败",
+        "categoryId": "fear"
+      },
+      {
+        "name": "疑惧",
+        "en": "Apprehension",
+        "scene": "林冲防暗算",
+        "categoryId": "fear"
+      },
+      {
+        "name": "战栗",
+        "en": "Trembling",
+        "scene": "泼皮见鲁达",
+        "categoryId": "fear"
+      },
+      {
+        "name": "敬畏",
+        "en": "Awe",
+        "scene": "拜九天玄女",
+        "categoryId": "fear"
+      },
+      {
+        "name": "心悸",
+        "en": "Horror",
+        "scene": "活剥人皮",
+        "categoryId": "fear"
+      },
+      {
+        "name": "怯懦",
+        "en": "Cowardice",
+        "scene": "洪教头",
+        "categoryId": "fear"
+      },
+      {
+        "name": "梦魇",
+        "en": "Nightmare",
+        "scene": "宋江梦玄女",
+        "categoryId": "fear"
+      },
+      {
+        "name": "慈爱",
+        "en": "Compassion",
+        "scene": "宋江爱兄弟",
+        "categoryId": "love"
+      },
+      {
+        "name": "热恋",
+        "en": "Passion",
+        "scene": "阎婆惜张文远",
+        "categoryId": "love"
+      },
+      {
+        "name": "依恋",
+        "en": "Attachment",
+        "scene": "李逵恋宋江",
+        "categoryId": "love"
+      },
+      {
+        "name": "倾慕",
+        "en": "Adoration",
+        "scene": "燕青慕李师师",
+        "categoryId": "love"
+      },
+      {
+        "name": "怜惜",
+        "en": "Tenderness",
+        "scene": "鲁达救金氏",
+        "categoryId": "love"
+      },
+      {
+        "name": "挚爱",
+        "en": "Devotion",
+        "scene": "宋江忠义",
+        "categoryId": "love"
+      },
+      {
+        "name": "友爱",
+        "en": "Friendship",
+        "scene": "梁山泊",
+        "categoryId": "love"
+      },
+      {
+        "name": "博爱",
+        "en": "Universal Love",
+        "scene": "替天行道",
+        "categoryId": "love"
+      },
+      {
+        "name": "相思",
+        "en": "Longing",
+        "scene": "林冲念妻",
+        "categoryId": "love"
+      },
+      {
+        "name": "守护",
+        "en": "Protectiveness",
+        "scene": "燕青救主",
+        "categoryId": "love"
+      },
+      {
+        "name": "厌恶",
+        "en": "Disgust",
+        "scene": "好汉嫌贪官",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "鄙夷",
+        "en": "Contempt",
+        "scene": "林冲鄙夷小人",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "憎恨",
+        "en": "Hatred",
+        "scene": "林冲恨高俅",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "嫌弃",
+        "en": "Revulsion",
+        "scene": "潘金莲嫌武大",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "愤懑",
+        "en": "Abhorrence",
+        "scene": "武松恨西门庆",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "轻蔑",
+        "en": "Scorn",
+        "scene": "武松轻蔑蒋门神",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "作呕",
+        "en": "Nausea",
+        "scene": "见孙二娘包子",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "唾弃",
+        "en": "Spurning",
+        "scene": "百姓唾弃高俅",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "忌惮",
+        "en": "Loathing with Fear",
+        "scene": "官府忌惮梁山",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "寒心",
+        "en": "Chill",
+        "scene": "林冲寒心",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "惊讶",
+        "en": "Surprise",
+        "scene": "见武艺",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "震惊",
+        "en": "Shock",
+        "scene": "见招安诏",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "错愕",
+        "en": "Bewilderment",
+        "scene": "李逵见母虎",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "骇然",
+        "en": "Alarm",
+        "scene": "见人头",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "惊叹",
+        "en": "Wonder",
+        "scene": "叹神力",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "恍悟",
+        "en": "Realization",
+        "scene": "宋江悟天书",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "呆滞",
+        "en": "Stunned",
+        "scene": "武松呆立",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "诧异",
+        "en": "Curiosity-Surprise",
+        "scene": "燕青诧异",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "惊魂",
+        "en": "Frightened Surprise",
+        "scene": "林冲逃后",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "颠覆",
+        "en": "Paradigm Shift",
+        "scene": "梁山被招安",
+        "categoryId": "surprise"
+      }
+    ]
+  },
+  "sanguo": {
+    "name": "三国演义",
+    "emotions": [
+      {
+        "name": "欣喜",
+        "en": "Delight",
+        "scene": "刘备得遇孔明",
+        "categoryId": "joy"
+      },
+      {
+        "name": "狂喜",
+        "en": "Ecstasy",
+        "scene": "曹操大胜袁绍",
+        "categoryId": "joy"
+      },
+      {
+        "name": "欣慰",
+        "en": "Gratification",
+        "scene": "刘备托孤见刘禅",
+        "categoryId": "joy"
+      },
+      {
+        "name": "庆幸",
+        "en": "Relief",
+        "scene": "赵云长坂坡救阿斗",
+        "categoryId": "joy"
+      },
+      {
+        "name": "自豪",
+        "en": "Pride",
+        "scene": "关羽水淹七军",
+        "categoryId": "joy"
+      },
+      {
+        "name": "陶醉",
+        "en": "Enchantment",
+        "scene": "曹操横槊赋诗",
+        "categoryId": "joy"
+      },
+      {
+        "name": "雀跃",
+        "en": "Exuberance",
+        "scene": "曹植七步成诗前",
+        "categoryId": "joy"
+      },
+      {
+        "name": "知足",
+        "en": "Contentment",
+        "scene": "诸葛亮躬耕南阳",
+        "categoryId": "joy"
+      },
+      {
+        "name": "期待",
+        "en": "Anticipation",
+        "scene": "三顾茅庐",
+        "categoryId": "joy"
+      },
+      {
+        "name": "释然",
+        "en": "Liberation",
+        "scene": "姜维最后一搏",
+        "categoryId": "joy"
+      },
+      {
+        "name": "愤怒",
+        "en": "Anger",
+        "scene": "张飞怒鞭督邮",
+        "categoryId": "anger"
+      },
+      {
+        "name": "暴怒",
+        "en": "Rage",
+        "scene": "曹操杀吕伯奢全家",
+        "categoryId": "anger"
+      },
+      {
+        "name": "愤慨",
+        "en": "Indignation",
+        "scene": "祢衡击鼓骂曹",
+        "categoryId": "anger"
+      },
+      {
+        "name": "恼火",
+        "en": "Annoyance",
+        "scene": "周瑜恼孔明借箭",
+        "categoryId": "anger"
+      },
+      {
+        "name": "嫉恨",
+        "en": "Jealous Rage",
+        "scene": "庞德嫉恨关羽",
+        "categoryId": "anger"
+      },
+      {
+        "name": "震怒",
+        "en": "Fury",
+        "scene": "孙权怒摔酒杯",
+        "categoryId": "anger"
+      },
+      {
+        "name": "悲愤",
+        "en": "Grief-anger",
+        "scene": "诸葛亮哭周瑜",
+        "categoryId": "anger"
+      },
+      {
+        "name": "愠怒",
+        "en": "Resentment",
+        "scene": "徐庶进曹营",
+        "categoryId": "anger"
+      },
+      {
+        "name": "狂躁",
+        "en": "Irritation",
+        "scene": "魏延狂躁反骨",
+        "categoryId": "anger"
+      },
+      {
+        "name": "决绝之怒",
+        "en": "Righteous Wrath",
+        "scene": "黄盖苦肉计",
+        "categoryId": "anger"
+      },
+      {
+        "name": "悲伤",
+        "en": "Sadness",
+        "scene": "徐庶别母",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "悲痛",
+        "en": "Grief",
+        "scene": "曹操哭典韦",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "哀愁",
+        "en": "Melancholy",
+        "scene": "曹植洛神赋",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "绝望",
+        "en": "Despair",
+        "scene": "马谡失街亭",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "惋惜",
+        "en": "Regret",
+        "scene": "刘备惜庞统",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "孤寂",
+        "en": "Loneliness",
+        "scene": "姜维死后蜀亡",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "凄楚",
+        "en": "Distress",
+        "scene": "百姓流离",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "缅怀",
+        "en": "Mourning",
+        "scene": "孔明祭先主",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "幻灭",
+        "en": "Disillusionment",
+        "scene": "三国归晋",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "苍凉",
+        "en": "Desolation",
+        "scene": "滚滚长江东逝水",
+        "categoryId": "sorrow"
+      },
+      {
+        "name": "愉悦",
+        "en": "Pleasure",
+        "scene": "铜雀台比武",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "诙谐",
+        "en": "Amusement",
+        "scene": "蒋干盗书",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "惬意",
+        "en": "Coziness",
+        "scene": "卧龙冈午睡",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "调侃",
+        "en": "Playfulness",
+        "scene": "孔明调侃鲁肃",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "逍遥",
+        "en": "Carefree",
+        "scene": "左慈戏曹操",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "窃喜",
+        "en": "Smugness",
+        "scene": "庞统献连环计",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "恬淡",
+        "en": "Tranquility",
+        "scene": "司马徽",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "惊喜",
+        "en": "Surprise-Joy",
+        "scene": "得良将",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "自嘲",
+        "en": "Self-mockery",
+        "scene": "曹操割须弃袍",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "会心",
+        "en": "Understanding Smile",
+        "scene": "刘关张",
+        "categoryId": "amusement"
+      },
+      {
+        "name": "恐惧",
+        "en": "Fear",
+        "scene": "汉献帝怕曹",
+        "categoryId": "fear"
+      },
+      {
+        "name": "惊恐",
+        "en": "Terror",
+        "scene": "木牛流马",
+        "categoryId": "fear"
+      },
+      {
+        "name": "畏惧",
+        "en": "Dread",
+        "scene": "怕司马懿",
+        "categoryId": "fear"
+      },
+      {
+        "name": "惊慌",
+        "en": "Panic",
+        "scene": "赤壁火烧",
+        "categoryId": "fear"
+      },
+      {
+        "name": "疑惧",
+        "en": "Apprehension",
+        "scene": "空城计",
+        "categoryId": "fear"
+      },
+      {
+        "name": "战栗",
+        "en": "Trembling",
+        "scene": "夏侯杰吓死",
+        "categoryId": "fear"
+      },
+      {
+        "name": "敬畏",
+        "en": "Awe",
+        "scene": "祭天地",
+        "categoryId": "fear"
+      },
+      {
+        "name": "心悸",
+        "en": "Horror",
+        "scene": "左慈显圣",
+        "categoryId": "fear"
+      },
+      {
+        "name": "怯懦",
+        "en": "Cowardice",
+        "scene": "刘璋投降",
+        "categoryId": "fear"
+      },
+      {
+        "name": "梦魇",
+        "en": "Nightmare",
+        "scene": "曹操梦三马",
+        "categoryId": "fear"
+      },
+      {
+        "name": "慈爱",
+        "en": "Compassion",
+        "scene": "刘备爱民",
+        "categoryId": "love"
+      },
+      {
+        "name": "热恋",
+        "en": "Passion",
+        "scene": "吕布戏貂蝉",
+        "categoryId": "love"
+      },
+      {
+        "name": "依恋",
+        "en": "Attachment",
+        "scene": "赵云恋主",
+        "categoryId": "love"
+      },
+      {
+        "name": "倾慕",
+        "en": "Adoration",
+        "scene": "周瑜慕小乔",
+        "categoryId": "love"
+      },
+      {
+        "name": "怜惜",
+        "en": "Tenderness",
+        "scene": "曹操惜关羽",
+        "categoryId": "love"
+      },
+      {
+        "name": "挚爱",
+        "en": "Devotion",
+        "scene": "关羽忠汉",
+        "categoryId": "love"
+      },
+      {
+        "name": "友爱",
+        "en": "Friendship",
+        "scene": "桃园三结义",
+        "categoryId": "love"
+      },
+      {
+        "name": "博爱",
+        "en": "Universal Love",
+        "scene": "仁政",
+        "categoryId": "love"
+      },
+      {
+        "name": "相思",
+        "en": "Longing",
+        "scene": "甄宓思曹植",
+        "categoryId": "love"
+      },
+      {
+        "name": "守护",
+        "en": "Protectiveness",
+        "scene": "典韦护曹",
+        "categoryId": "love"
+      },
+      {
+        "name": "厌恶",
+        "en": "Disgust",
+        "scene": "祢衡嫌俗人",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "鄙夷",
+        "en": "Contempt",
+        "scene": "关羽鄙夷孙权",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "憎恨",
+        "en": "Hatred",
+        "scene": "刘备恨曹操",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "嫌弃",
+        "en": "Revulsion",
+        "scene": "曹操嫌祢衡",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "愤懑",
+        "en": "Abhorrence",
+        "scene": "吉平恨曹",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "轻蔑",
+        "en": "Scorn",
+        "scene": "张飞轻蔑严颜",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "作呕",
+        "en": "Nausea",
+        "scene": "见董卓尸体",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "唾弃",
+        "en": "Spurning",
+        "scene": "后人唾弃吕布",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "忌惮",
+        "en": "Loathing with Fear",
+        "scene": "曹操忌惮关羽",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "寒心",
+        "en": "Chill",
+        "scene": "徐庶寒心",
+        "categoryId": "disgust"
+      },
+      {
+        "name": "惊讶",
+        "en": "Surprise",
+        "scene": "见奇谋",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "震惊",
+        "en": "Shock",
+        "scene": "见八十万大军",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "错愕",
+        "en": "Bewilderment",
+        "scene": "庞统见落凤坡",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "骇然",
+        "en": "Alarm",
+        "scene": "见左慈",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "惊叹",
+        "en": "Wonder",
+        "scene": "叹诸葛",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "恍悟",
+        "en": "Realization",
+        "scene": "徐庶悟母意",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "呆滞",
+        "en": "Stunned",
+        "scene": "曹操呆望",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "诧异",
+        "en": "Curiosity-Surprise",
+        "scene": "孔明诧异",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "惊魂",
+        "en": "Frightened Surprise",
+        "scene": "刘备摔阿斗后",
+        "categoryId": "surprise"
+      },
+      {
+        "name": "颠覆",
+        "en": "Paradigm Shift",
+        "scene": "三国归晋",
+        "categoryId": "surprise"
+      }
+    ]
+  }
+}
